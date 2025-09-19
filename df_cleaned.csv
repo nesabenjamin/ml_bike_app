@@ -1,0 +1,1353 @@
+,model_name,model_year,kms_driven,owner,location,mileage,power,price,cc,brand
+0,Yamaha SZ-RR 150cc,2012,12000,first owner,delhi,55.0,12 Bhp,28000,150.0,Yamaha
+1,Yamaha FZs 150cc,2015,10168,first owner,delhi,45.0,13 bhp,44000,150.0,Yamaha
+2,Hero Achiever 150cc,2019,15000,first owner,jaunpur,50.0,13 bhp,48000,150.0,Hero
+3,Bajaj Pulsar 220cc,2015,55000,first owner,chittorgarh,38.0,21 bhp,45000,220.0,Bajaj
+4,Hero Ignitor 125cc,2014,45000,first owner,hyderabad,55.0,11 bhp,30000,125.0,Hero
+5,Hero Karizma R 223cc,2009,33000,first owner,delhi,40.0,17 bhp,18000,223.0,Hero
+6,Yamaha FZs 150cc,2012,60000,first owner,delhi,45.0,13 bhp,32000,150.0,Yamaha
+7,Hero Passion Pro 100cc Drum Alloy,2018,30000,first owner,chittorgarh,5.0,8.2 Bhp,42000,100.0,Hero
+8,Bajaj Pulsar 220cc,2010,38000,second owner,dehradun,38.0,21 bhp,30000,220.0,Bajaj
+9,Bajaj Avenger Street 150,2017,9563,second owner,navi mumbai,45.0,14.30 bhp,39000,150.0,Bajaj
+10,Hero Passion Pro 100cc,2011,67000,first owner,delhi,5.0,8.2 Bhp,26000,100.0,Hero
+11,Hero Passion Pro 100cc,2011,56194,first owner,delhi,5.0,8.2 Bhp,20000,100.0,Hero
+12,Yamaha FZs 150cc,2014,27000,second owner,hyderabad,45.0,13 bhp,48500,150.0,Yamaha
+13,Yamaha SZ RR V 2.0 150cc,2013,37788,first owner,siliguri,50.0,11.90 bhp,43000,150.0,Yamaha
+14,Yamaha YZF-R15 150cc,2008,42821,first owner,mumbai,42.0,16 bhp,42000,150.0,Yamaha
+15,Hero Ignitor 125cc,2013,52000,first owner,visakhapatnam,55.0,11 bhp,30000,125.0,Hero
+16,Hero HF Deluxe Eco 100cc,2018,7259,first owner,pune,65.0,8.10 bhp,22500,100.0,Hero
+17,Bajaj CT 100 100cc,2018,38000,first owner,chittorgarh,89.0,8.10 bhp,45000,100.0,Bajaj
+18,Hero Achiever Disc 150cc,2018,48000,first owner,chittorgarh,50.0,13 bhp,48000,150.0,Hero
+19,Yamaha FZs 150cc,2014,39000,first owner,pune,45.0,13 bhp,49800,150.0,Yamaha
+20,Bajaj Pulsar 150cc,2003,126,first owner,thiruvananthapuram,65.0,15 bhp,24501,150.0,Bajaj
+21,Bajaj CT 100 100cc,2016,15745,first owner,bangalore,89.0,8.10 bhp,20180,100.0,Bajaj
+22,Hero Karizma R 223cc,2010,65000,first owner,pune,40.0,17 bhp,40000,223.0,Hero
+23,Yamaha FZs 150cc,2013,22605,second owner,delhi,45.0,13 bhp,35000,150.0,Yamaha
+24,Hero Passion Pro 100cc,2013,23000,first owner,vadodara,5.0,8.2 Bhp,34000,100.0,Hero
+25,Hero Passion Pro 100cc,2016,25000,first owner,kurukshetra,5.0,8.2 Bhp,18750,100.0,Hero
+26,Hero CBZ Xtreme 150cc,2011,35000,first owner,gurgaon,65.0,14.4PS,25000,150.0,Hero
+27,TVS Sport 100cc,2014,15000,first owner,bhagalpur,95.0,7.40 bhp,36000,100.0,TVS
+28,Hero Passion Pro 100cc,2014,17700,first owner,hyderabad,5.0,8.2 Bhp,38000,100.0,Hero
+29,Bajaj Pulsar 220F,2015,46740,first owner,mumbai,38.0,21 bhp,40000,220.0,Bajaj
+30,Hero Karizma ZMR 223cc,2016,25000,first owner,noida,48.0,20 bhp,46992,223.0,Hero
+31,Bajaj Discover 125cc,2017,37000,first owner,reasi,65.0,12.5 ps,32250,125.0,Bajaj
+32,Mahindra Centuro 110cc,2014,38000,first owner,hyderabad,60.0,8.5 Bhp,33000,110.0,Mahindra
+33,Bajaj CT 100 Spoke,2016,28800,first owner,bangalore,67.0,8.10 bhp,39000,100.0,Bajaj
+34,Suzuki Gixxer 150cc,2015,39000,first owner,bangalore,63.0,14 bhp,46500,150.0,Suzuki
+35,Bajaj Avenger 220cc,2011,39000,first owner,ahmedabad,40.0,19 bhp,27899,220.0,Bajaj
+36,TVS Apache RR310,2017,21500,first owner,patna,22.0,33 bhp,35000,310.0,TVS
+37,Hero Splendor Plus 100cc,2017,18649,first owner,bathinda,81.0,8.20 bhp,49500,100.0,Hero
+38,Bajaj CT 100 100cc,2015,15648,second owner,bathinda,89.0,8.10 bhp,32500,100.0,Bajaj
+39,Hero Glamour 125cc,2014,42000,first owner,hyderabad,55.0,8.90 bhp,38000,125.0,Hero
+40,Hero Splendor Plus 100cc,2014,52000,first owner,hyderabad,81.0,8.20 bhp,39000,100.0,Hero
+41,Bajaj Discover 125cc,2013,40000,first owner,hyderabad,65.0,12.5 ps,32000,125.0,Bajaj
+42,Hero Glamour 125cc,2014,46000,first owner,hyderabad,55.0,8.90 bhp,39000,125.0,Hero
+43,Bajaj V15 150cc,2016,25300,first owner,bangalore,57.0,11.80 bhp,45000,150.0,Bajaj
+44,Yamaha FZs 150cc,2012,47500,first owner,bangalore,45.0,13 bhp,35000,150.0,Yamaha
+45,Bajaj Avenger 220cc,2014,25600,first owner,mumbai,40.0,19 bhp,36312,220.0,Bajaj
+46,Yamaha FZs 150cc,2013,25500,first owner,jaipur,45.0,13 bhp,35000,150.0,Yamaha
+47,Hero Passion Pro 100cc,2014,40000,second owner,ahmedabad,5.0,8.2 Bhp,24910,100.0,Hero
+48,Hero Splendor Plus 100cc,2017,14500,first owner,delhi,81.0,8.20 bhp,42500,100.0,Hero
+49,Hero HF Deluxe Eco 100cc,2018,7259,first owner,delhi,65.0,8.10 bhp,22500,100.0,Hero
+50,Hero New Super Splendor 125cc SX,2019,15500,second owner,bangalore,75.0,9 bhp,35000,125.0,Hero
+51,Bajaj Pulsar 180cc,2016,25440,first owner,chennai,65.0,17 bhp,45000,180.0,Bajaj
+52,Honda CB Trigger 150cc,2014,23000,first owner,mumbai,60.0,14 bhp,38000,150.0,Honda
+53,Suzuki Slingshot Plus 125cc,2016,32568,first owner,bangalore,59.0,8.50 bhp,25700,125.0,Suzuki
+54,Honda CBR 150R 150cc,2012,32000,fourth owner or more,navi mumbai,38.0,18.28 bhp,40000,150.0,Honda
+55,Suzuki Gixxer 150cc,2015,29000,first owner,mumbai,63.0,14 bhp,41000,150.0,Suzuki
+56,Hero HF Deluxe 100cc,2018,11024,first owner,delhi,55.0,6.15kW (8.36 Ps),43000,100.0,Hero
+57,Hero Super Splendor 125cc,2008,60000,first owner,pune,75.0,9 bhp,18000,125.0,Hero
+58,Bajaj Pulsar 180cc,2010,95000,first owner,delhi,65.0,15 bhp,17000,180.0,Bajaj
+59,Hero HF Deluxe 100cc,2014,38000,first owner,hyderabad,83.0,7.70 bhp,38000,100.0,Hero
+60,Hero HF Deluxe Self 100cc,2015,23000,first owner,hyderabad,55.0,6.15kW (8.36 Ps),45000,100.0,Hero
+61,Bajaj CT 100 100cc,2016,16875,first owner,delhi,89.0,8.10 bhp,26000,100.0,Bajaj
+62,Bajaj Discover 125cc,2013,48000,first owner,chittorgarh,65.0,12.5 ps,32000,125.0,Bajaj
+63,Suzuki Slingshot 125cc,2011,33693,first owner,ahmedabad,59.0,8.50 bhp,25000,125.0,Suzuki
+64,Hero Xtreme 150cc,2013,30000,first owner,chittorgarh,50.0,14.20 bhp,25000,150.0,Hero
+65,Hero Xtreme 150cc,2014,20000,first owner,chittorgarh,50.0,14.20 bhp,32000,150.0,Hero
+66,Bajaj Pulsar 180cc,2012,35000,second owner,ludhiana,45.0,17 bhp,40000,180.0,Bajaj
+67,Hero Ignitor 125cc,2015,15000,first owner,ambala,55.0,11 bhp,27000,125.0,Hero
+68,Bajaj CT 100 KS Alloy,2019,10038,first owner,bathinda,67.0,8.10 bhp,48500,100.0,Bajaj
+69,Bajaj Avenger 220cc,2014,55000,first owner,ghaziabad,40.0,19 bhp,25000,220.0,Bajaj
+70,Hero Super Splendor 125cc,2017,30000,first owner,delhi,75.0,9 bhp,40000,125.0,Hero
+71,Bajaj Pulsar 200 NS 200cc,2014,11930,first owner,navi mumbai,40.0,24.2 BHP,43500,200.0,Bajaj
+72,Bajaj Pulsar 180cc,2010,22000,first owner,jodhpur,65.0,15 bhp,19300,180.0,Bajaj
+73,Bajaj Pulsar 135LS,2010,58000,first owner,jaipur,64.0,13 bhp,15700,135.0,Bajaj
+74,Hero Hunk 150cc,2008,28945,first owner,patiala,53.0,14 bhp,21000,150.0,Hero
+75,Bajaj V15 150cc,2016,23000,second owner,samana,57.0,11.80 bhp,35000,150.0,Bajaj
+76,Bajaj Discover 125cc,2013,19000,first owner,jaipur,65.0,12.5 ps,21000,125.0,Bajaj
+77,Hero Passion Pro 100cc,2016,17465,first owner,bangalore,5.0,8.2 Bhp,37462,100.0,Hero
+78,Bajaj Pulsar 180cc,2016,89000,third owner,delhi,65.0,17 bhp,35000,180.0,Bajaj
+79,Hero Glamour Fi 125cc,2017,25000,first owner,noida,55.0,9 bhp,42000,125.0,Hero
+80,Bajaj Avenger 200cc,2008,24000,first owner,delhi,53.0,19 bhp,16000,200.0,Bajaj
+81,Bajaj Pulsar 220cc,2012,25000,first owner,delhi,38.0,21 bhp,31000,220.0,Bajaj
+82,Bajaj Discover 125cc,2012,4000,first owner,jaipur,65.0,12.5 ps,19900,125.0,Bajaj
+83,Hero Splendor iSmart 100cc,2015,46453,first owner,bangalore,55.0,8.20 bhp,32100,100.0,Hero
+84,Bajaj Pulsar 180cc,2010,9800,first owner,pali,65.0,15 bhp,20000,180.0,Bajaj
+85,Bajaj Avenger Street 150,2016,13500,first owner,gurgaon,50.0,14.30 bhp,45000,150.0,Bajaj
+86,Bajaj Discover 125cc,2012,19000,first owner,jaipur,65.0,12.5 ps,19500,125.0,Bajaj
+87,Bajaj V15 150cc POWER UP,2019,26000,first owner,naihati,57.0,11.80 bhp,47000,150.0,Bajaj
+88,Bajaj Avenger Street 150,2017,25000,first owner,ahmedabad,45.0,14.30 bhp,45000,150.0,Bajaj
+89,Bajaj V15 150cc,2017,35000,first owner,delhi,57.0,11.80 bhp,28000,150.0,Bajaj
+90,Bajaj Avenger Street 220,2016,39000,second owner,hyderabad,53.0,19 bhp,46000,220.0,Bajaj
+91,Bajaj V15 150cc,2017,15200,first owner,gurgaon,57.0,11.80 bhp,32000,150.0,Bajaj
+92,Bajaj Avenger 220cc,2013,13800,first owner,ahmedabad,40.0,19 bhp,45000,220.0,Bajaj
+93,Hero HF Deluxe iBS Black self Alloy 100cc,2019,14000,first owner,delhi,55.0,6.15kW (8.36 Ps),48500,100.0,Hero
+94,Bajaj Pulsar 200 NS 200cc,2014,12000,first owner,mumbai,40.0,24.2 BHP,44200,200.0,Bajaj
+95,Hero Passion Pro 100cc,2016,15000,first owner,gurgaon,5.0,8.2 Bhp,30000,100.0,Hero
+96,Hero Passion Pro 100cc,2007,81455,first owner,varanasi,5.0,8.2 Bhp,20000,100.0,Hero
+97,Hero Passion Pro 100cc,2015,42344,first owner,bangalore,84.0,8.2 Bhp,32200,100.0,Hero
+98,Hero Splendor 100cc,2001,30110,first owner,bangalore,45.0,7.44bhp,25000,100.0,Hero
+99,Hero Karizma R 223cc,2011,40000,first owner,mumbai,40.0,17 bhp,35000,223.0,Hero
+100,Bajaj Discover 125cc,2014,26000,first owner,jaipur,65.0,12.5 ps,22500,125.0,Bajaj
+101,Hero Hunk Rear Disc 150cc,2012,29000,first owner,mumbai,55.0,14 bhp,30000,150.0,Hero
+102,Bajaj Pulsar 180cc,2016,38150,first owner,mumbai,65.0,17 bhp,45000,180.0,Bajaj
+103,Suzuki Gixxer 150cc,2015,60000,first owner,hyderabad,63.0,14 bhp,45000,150.0,Suzuki
+104,Hero Honda Splendor 100cc,2011,18895,first owner,kolkata,52.5,6.15kW (8.36 Ps),20000,100.0,Hero
+105,Hero Passion Pro 100cc,2016,25678,first owner,bangalore,5.0,8.2 Bhp,35400,100.0,Hero
+106,Hero Karizma ZMR 223cc,2014,41000,second owner,guntur,48.0,20 bhp,38000,223.0,Hero
+107,Bajaj Avenger 220cc,2014,22000,second owner,mumbai,40.0,19 bhp,36814,220.0,Bajaj
+108,Bajaj Avenger 220cc,2014,14000,first owner,mumbai,40.0,19 bhp,35000,220.0,Bajaj
+109,Hero HF Deluxe 100cc,2018,6750,first owner,ahmednagar,55.0,6.15kW (8.36 Ps),23500,100.0,Hero
+110,Bajaj V15 150cc,2016,27000,second owner,pune,57.0,11.80 bhp,45000,150.0,Bajaj
+111,Bajaj Avenger 220cc,2015,20000,first owner,delhi,40.0,19 bhp,42000,220.0,Bajaj
+112,Bajaj Avenger Street 150,2016,22459,first owner,thane,50.0,14.30 bhp,48000,150.0,Bajaj
+113,Yamaha FZs 150cc,2010,58000,second owner,bangalore,45.0,13 bhp,35000,150.0,Yamaha
+114,Hero Achiever Disc 150cc,2019,6750,first owner,ahmednagar,50.0,13 bhp,23500,150.0,Hero
+115,Hero HF Deluxe Eco 100cc,2018,7200,first owner,ahmednagar,65.0,8.10 bhp,22500,100.0,Hero
+116,Hero HF Deluxe Eco 100cc,2018,6750,first owner,ahmedabad,65.0,8.10 bhp,23500,100.0,Hero
+117,Hero HF Deluxe Eco 100cc,2018,6750,first owner,ahmednagar,65.0,8.10 bhp,22500,100.0,Hero
+118,Bajaj Pulsar 180cc,2012,55000,first owner,jaipur,45.0,17 bhp,26000,180.0,Bajaj
+119,Hero Glamour 125cc,2018,50000,first owner,hyderabad,50.0,6.72 KW (9.1 Ps),48000,125.0,Hero
+120,Hero Glamour Disc 125cc,2015,46000,first owner,hyderabad,55.0,8.90 bhp,42000,125.0,Hero
+121,Royal Enfield Classic 350cc,2016,12500,first owner,chandrapur,35.0,19.80 bhp,41250,350.0,Royal Enfield
+122,Hero HF Deluxe self Alloy 100cc,2018,14322,first owner,gurgaon,55.0,6.15kW (8.36 Ps),32000,100.0,Hero
+123,Hero Super Splendor 125cc i3s,2019,12500,first owner,bangalore,75.0,9 bhp,25000,125.0,Hero
+124,Bajaj Pulsar 180cc,2011,24300,first owner,bangalore,65.0,15 bhp,35000,180.0,Bajaj
+125,Hero Passion Pro 100cc,2013,35000,first owner,delhi,5.0,8.2 Bhp,22200,100.0,Hero
+126,Bajaj Pulsar 220cc,2010,25000,first owner,gurgaon,38.0,21 bhp,22000,220.0,Bajaj
+127,Hero Xtreme 150cc,2017,40000,first owner,hyderabad,50.0,14.20 bhp,45000,150.0,Hero
+128,Hero Karizma ZMR 223cc,2010,46000,second owner,chennai,48.0,20 bhp,46000,223.0,Hero
+129,Bajaj Pulsar AS150,2015,34000,first owner,mumbai,53.0,16.80 bhp,43000,150.0,Bajaj
+130,Bajaj Pulsar 220cc,2013,97000,fourth owner or more,jodhpur,38.0,21 bhp,22000,220.0,Bajaj
+131,TVS Star City 110cc,2013,43000,first owner,bangalore,85.0,8.2 bhp,33500,110.0,TVS
+132,Hero Splendor iSmart 100cc,2016,30000,second owner,ghaziabad,55.0,8.20 bhp,34000,100.0,Hero
+133,Hero Passion Pro 100cc,2016,19526,first owner,bangalore,5.0,8.2 Bhp,37462,100.0,Hero
+134,Hero Passion Pro 100cc,2015,45333,first owner,bangalore,84.0,8.2 Bhp,32000,100.0,Hero
+135,Yamaha FZs 150cc,2013,37000,second owner,chennai,45.0,13 bhp,36000,150.0,Yamaha
+136,Bajaj Pulsar 220cc,2016,20000,first owner,khagaria,38.0,21 bhp,45000,220.0,Bajaj
+137,Bajaj Discover 100T,2013,24000,first owner,didwana,56.0,8.51 PS,16400,100.0,Bajaj
+138,Hero Hunk 150cc,2010,10000,first owner,delhi,53.0,14 bhp,28000,150.0,Hero
+139,Bajaj Discover 125T,2013,29000,first owner,jaipur,68.0,12.5 ps,19200,125.0,Bajaj
+140,Bajaj Pulsar 220cc,2013,18000,first owner,delhi,38.0,21 bhp,36500,220.0,Bajaj
+141,Bajaj Pulsar AS150,2015,23000,first owner,delhi,53.0,16.80 bhp,38200,150.0,Bajaj
+142,Bajaj Pulsar 180cc,2012,16000,first owner,delhi,45.0,17 bhp,25400,180.0,Bajaj
+143,Yamaha YZF-R15 150cc,2011,67304,second owner,mumbai,42.0,16 bhp,38000,150.0,Yamaha
+144,Bajaj Pulsar 220F,2015,49000,first owner,delhi,38.0,21 bhp,48600,220.0,Bajaj
+145,Bajaj Pulsar 180cc,2010,46000,first owner,jodhpur,65.0,15 bhp,19000,180.0,Bajaj
+146,Hero Ignitor 125cc,2015,29704,first owner,delhi,55.0,11 bhp,35000,125.0,Hero
+147,Hero Passion Xpro 110cc,2018,15000,first owner,delhi,55.0,6.72 KW (9.1 Ps),39500,110.0,Hero
+148,Bajaj Pulsar 180cc,2013,25000,first owner,delhi,65.0,15 bhp,30000,180.0,Bajaj
+149,TVS Star City Plus 110cc,2015,39985,first owner,bangalore,85.0,8.2 bhp,25500,110.0,TVS
+150,Bajaj Discover 125cc Disc,2018,23000,first owner,pune,65.0,10.90 bhp,48700,125.0,Bajaj
+151,Hero Glamour 125cc,2013,20000,first owner,delhi,55.0,8.90 bhp,18600,125.0,Hero
+152,Suzuki Gixxer 150cc,2016,13000,first owner,gurgaon,63.0,14 bhp,45000,150.0,Suzuki
+153,Bajaj Pulsar 220cc,2013,19000,first owner,delhi,38.0,21 bhp,36400,220.0,Bajaj
+154,Honda CB Trigger 150cc,2014,13200,first owner,gurgaon,60.0,14 bhp,26000,150.0,Honda
+155,Bajaj Pulsar 220cc,2008,10000,first owner,mumbai,38.0,21 bhp,26000,220.0,Bajaj
+156,Bajaj  Pulsar 180cc,2011,43000,first owner,delhi,45.0,17 bhp,22000,180.0,Bajaj
+157,Honda CBR 150R 150cc,2012,37208,second owner,pune,38.0,18.28 bhp,49000,150.0,Honda
+158,Bajaj V15 150cc,2016,22000,first owner,delhi,57.0,11.80 bhp,35000,150.0,Bajaj
+159,Bajaj Pulsar 220F,2013,20000,first owner,delhi,38.0,21 bhp,35800,220.0,Bajaj
+160,Hero Karizma ZMR 223cc,2014,37000,second owner,pune,48.0,20 bhp,39000,223.0,Hero
+161,Hero Hunk 150cc,2012,53000,first owner,pune,53.0,14 bhp,45000,150.0,Hero
+162,Hero Karizma R 223cc,2016,7960,first owner,moradabad,40.0,17 bhp,42000,223.0,Hero
+163,Bajaj Pulsar 135LS,2015,17000,first owner,asansol,64.0,13 bhp,23925,135.0,Bajaj
+164,Bajaj V15 150cc,2017,30000,first owner,delhi,57.0,11.80 bhp,31000,150.0,Bajaj
+165,Bajaj Pulsar 220cc,2011,41000,first owner,mumbai,38.0,21 bhp,29000,220.0,Bajaj
+166,Bajaj Pulsar 180cc,2011,84000,first owner,jaipur,65.0,15 bhp,22000,180.0,Bajaj
+167,Bajaj Pulsar 125cc Disc BS6,2020,48000,fourth owner or more,jaipur,62.0,11.64 bhp,41000,125.0,Bajaj
+168,Hero Hunk 150cc,2016,40000,first owner,erode,53.0,14 bhp,40000,150.0,Hero
+169,Bajaj Avenger 180cc,2006,57500,first owner,bangalore,40.0,19 bhp,36000,180.0,Bajaj
+170,Royal Enfield Thunderbird 350cc,2008,11000,first owner,mumbai,30.0,19.80 bhp,44000,350.0,Royal Enfield
+171,Bajaj Pulsar 180cc,2009,31000,first owner,mumbai,65.0,15 bhp,16000,180.0,Bajaj
+172,Royal Enfield Bullet 350cc,2007,60000,first owner,delhi,37.0,19.80 bhp,35000,350.0,Royal Enfield
+173,TVS Sport 100cc,2016,32000,first owner,hyderabad,95.0,7.40 bhp,40000,100.0,TVS
+174,Hero HF Deluxe Eco 100cc,2018,6750,first owner,pune,65.0,8.10 bhp,22500,100.0,Hero
+175,Hero HF Deluxe iBS self Alloy 100cc,2019,6750,first owner,ahmednagar,55.0,6.15kW (8.36 Ps),23500,100.0,Hero
+176,Hero HF Dawn 100cc,2003,1000000,first owner,ahmednagar,83.0,7.70 bhp,23500,100.0,Hero
+177,Hero HF Deluxe Eco 100cc,2018,7200,first owner,ahmednagar,65.0,8.10 bhp,23500,100.0,Hero
+178,Suzuki Gixxer 150cc,2015,32000,first owner,bangalore,63.0,14 bhp,46400,150.0,Suzuki
+179,Royal Enfield Classic 350cc,2016,55000,first owner,mumbai,35.0,19.80 bhp,41250,350.0,Royal Enfield
+180,Yamaha YZF-R15 150cc,2011,15502,first owner,patna,42.0,16 bhp,43500,150.0,Yamaha
+181,Bajaj V15 150cc,2016,30000,first owner,mumbai,57.0,11.80 bhp,35000,150.0,Bajaj
+182,Hero Glamour Disc 125cc,2014,45000,first owner,hyderabad,55.0,8.90 bhp,49000,125.0,Hero
+183,Hero CBZ Xtreme 150cc,2013,62000,second owner,sholinganallur,65.0,14.4PS,16700,150.0,Hero
+184,Hero Passion Pro 100cc,2012,90000,first owner,chennai,5.0,8.2 Bhp,21000,100.0,Hero
+185,Bajaj Avenger 220cc,2013,33000,first owner,ahmedabad,40.0,19 bhp,40000,220.0,Bajaj
+186,Hero Splendor iSmart 100cc,2015,25000,first owner,gwalior,55.0,8.20 bhp,40000,100.0,Hero
+187,Bajaj Pulsar 180cc,2014,34877,first owner,jaipur,45.0,17 bhp,44000,180.0,Bajaj
+188,Bajaj V15 150cc,2016,40000,first owner,delhi,57.0,11.80 bhp,22950,150.0,Bajaj
+189,Suzuki Gixxer 150cc,2015,27000,first owner,mumbai,63.0,14 bhp,48000,150.0,Suzuki
+190,Bajaj Avenger 220cc,2015,37580,first owner,pune,40.0,19 bhp,39000,220.0,Bajaj
+191,Royal Enfield Bullet Electra 350cc,2005,30000,first owner,faridabad,30.0,19.8 Bhp,40000,350.0,Royal Enfield
+192,Hero Passion Xpro 110cc,2013,35000,first owner,noida,55.0,6.72 KW (9.1 Ps),30000,110.0,Hero
+193,Honda CBR 250R,2011,35000,second owner,delhi,29.0,26.15 bhp,37038,250.0,Honda
+194,Bajaj Avenger Cruise 220,2016,33034,second owner,delhi,35.0,19 bhp,39450,220.0,Bajaj
+195,Hero Glamour 125cc,2010,46000,first owner,amritsar,55.0,8.90 bhp,22000,125.0,Hero
+196,Bajaj V15 150cc,2018,31000,first owner,betia,57.0,11.80 bhp,40000,150.0,Bajaj
+197,Hero CBZ Xtreme 150cc,2014,76544,first owner,delhi,65.0,14.4PS,21100,150.0,Hero
+198,Hero Passion Pro 100cc,2011,46000,first owner,noida,5.0,8.2 Bhp,19051,100.0,Hero
+199,Yamaha FZs 150cc,2010,33000,first owner,chennai,45.0,13 bhp,22000,150.0,Yamaha
+200,Hero CBZ Xtreme 150cc,2015,23385,second owner,,65.0,14.4PS,20517,150.0,Hero
+201,Bajaj Pulsar 180cc,2014,8000,first owner,bangalore,45.0,17 bhp,41400,180.0,Bajaj
+202,Bajaj Discover 125cc,2017,22000,first owner,jaipur,65.0,12.5 ps,40000,125.0,Bajaj
+203,Bajaj V12 125cc,2018,28000,first owner,ahmedabad,57.0,12bhp,40000,125.0,Bajaj
+204,Suzuki Gixxer SF 150cc Rear Disc,2016,24500,third owner,delhi,40.0,14.60 bhp,43000,150.0,Suzuki
+205,Honda CB Trigger 150cc,2014,20000,first owner,ambala,60.0,14 bhp,23000,150.0,Honda
+206,Bajaj Pulsar 180cc,2011,28000,first owner,mumbai,65.0,15 bhp,24000,180.0,Bajaj
+207,Bajaj Pulsar 180cc,2013,38000,second owner,faridabad,65.0,15 bhp,31500,180.0,Bajaj
+208,Bajaj Pulsar 220cc,2013,58000,first owner,delhi,38.0,21 bhp,34600,220.0,Bajaj
+209,Hero Karizma R 223cc,2008,23910,second owner,mumbai,40.0,17 bhp,25000,223.0,Hero
+210,Honda CBR 250R,2011,30000,first owner,rudrapur,29.0,26.15 bhp,46800,250.0,Honda
+211,Bajaj Pulsar 220cc,2016,85000,third owner,jaipur,38.0,21 bhp,46000,220.0,Bajaj
+212,Bajaj V15 150cc,2017,5200,first owner,hyderabad,57.0,11.80 bhp,37500,150.0,Bajaj
+213,Hero Passion Plus 100cc,2008,54500,second owner,delhi,55.0,7.5 Bhp,15500,100.0,Hero
+214,Bajaj Pulsar 180cc,2015,29000,first owner,mumbai,45.0,17 bhp,47000,180.0,Bajaj
+215,Mahindra Centuro 110cc,2014,38000,first owner,mumbai,60.0,8.5 Bhp,30000,110.0,Mahindra
+216,Bajaj V15 150cc,2016,15000,first owner,delhi,57.0,11.80 bhp,38000,150.0,Bajaj
+217,Bajaj V15 150cc,2017,14000,first owner,delhi,57.0,11.80 bhp,39000,150.0,Bajaj
+218,Hero CBZ Xtreme 150cc,2013,19000,first owner,delhi,65.0,14.4PS,28500,150.0,Hero
+219,Bajaj Pulsar 135LS,2015,89000,first owner,jaipur,64.0,13 bhp,29000,135.0,Bajaj
+220,Bajaj Pulsar 220F,2018,84000,fourth owner or more,jaipur,38.0,21 bhp,41000,220.0,Bajaj
+221,Hero Splendor Plus Self Alloy 100cc,2019,8015,first owner,delhi,55.0,8.20 bhp,45000,100.0,Hero
+222,Yamaha FZs 150cc,2014,72000,second owner,amritsar,45.0,13 bhp,38800,150.0,Yamaha
+223,Hero Splendor Plus 100cc,2010,23000,first owner,delhi,81.0,8.20 bhp,22000,100.0,Hero
+224,Hero Super Splendor 125cc,2010,240000,first owner,shahganj,75.0,9 bhp,26000,125.0,Hero
+225,Hero Karizma R 223cc,2012,88000,first owner,chennai,40.0,17 bhp,22000,223.0,Hero
+226,Bajaj Avenger 220cc,2013,47000,first owner,delhi,40.0,19 bhp,33300,220.0,Bajaj
+227,Hero Glamour 125cc,2014,17000,first owner,murad nagar,55.0,8.90 bhp,30000,125.0,Hero
+228,Hero Super Splendor 125cc,2012,28655,first owner,delhi,75.0,9 bhp,22000,125.0,Hero
+229,Hero CD Deluxe 100cc,2006,45000,first owner,ahmedabad,65.0,7.70 bhp,16939,100.0,Hero
+230,Hero Splendor Pro 100cc,2012,2977,first owner,ahmedabad,81.0,8.20 bhp,24100,100.0,Hero
+231,Bajaj Pulsar 220F,2012,16000,first owner,jaipur,38.0,21 bhp,34700,220.0,Bajaj
+232,Bajaj Pulsar 180cc,2010,25000,first owner,bangalore,65.0,15 bhp,22000,180.0,Bajaj
+233,Hero Splendor 100cc,2016,6500,first owner,akkalkot,52.5,6.15kW (8.36 Ps),23500,100.0,Hero
+234,Bajaj Avenger Street 150,2018,32000,first owner,bhiwani,45.0,14.30 bhp,46500,150.0,Bajaj
+235,Yamaha FZs 150cc,2014,21100,second owner,jaipur,45.0,13 bhp,45000,150.0,Yamaha
+236,Bajaj Pulsar 220cc,2010,22000,first owner,dehradun,38.0,21 bhp,40000,220.0,Bajaj
+237,Bajaj Avenger 220cc,2011,19000,first owner,delhi,40.0,19 bhp,25000,220.0,Bajaj
+238,Yamaha FZs 150cc,2013,22363,first owner,bangalore,45.0,13 bhp,45000,150.0,Yamaha
+239,Yamaha FZs 150cc,2013,27744,first owner,bangalore,45.0,13 bhp,45000,150.0,Yamaha
+240,Bajaj Pulsar 220cc,2014,31773,first owner,bangalore,38.0,21 bhp,48000,220.0,Bajaj
+241,Hero CBZ 150cc,2011,90000,first owner,vadodara,65.0,12.8ps,23000,150.0,Hero
+242,Yamaha FZs 150cc,2012,40000,second owner,malout,45.0,13 bhp,45000,150.0,Yamaha
+243,Bajaj Pulsar 220F,2013,50000,second owner,kochi,38.0,21 bhp,30000,220.0,Bajaj
+244,Hero CBZ 150cc,2009,61000,first owner,bangalore,65.0,12.8ps,25000,150.0,Hero
+245,Hero Karizma 223cc,2006,47000,first owner,bangalore,40.0,17 bhp,20000,223.0,Hero
+246,Bajaj Platina 100cc ComforTec Alloy,2018,40126,first owner,chittoor,90.0,8.10 bhp,34000,100.0,Bajaj
+247,Bajaj Pulsar AS150,2016,34600,first owner,kolkata,53.0,16.80 bhp,35000,150.0,Bajaj
+248,Bajaj Avenger Street 150,2016,98000,fourth owner or more,sirsa,50.0,14.30 bhp,26000,150.0,Bajaj
+249,Hero Karizma R 223cc,2009,96000,first owner,mumbai,40.0,17 bhp,25000,223.0,Hero
+250,Yamaha YZF-R15 150cc,2011,33000,first owner,chennai,42.0,16 bhp,32025,150.0,Yamaha
+251,Bajaj Avenger 220cc,2014,32000,first owner,baramati,40.0,19 bhp,40000,220.0,Bajaj
+252,Bajaj Pulsar 200 NS 200cc,2014,46000,first owner,ghaziabad,40.0,24.2 BHP,45000,200.0,Bajaj
+253,Bajaj Pulsar 220cc,2015,52000,second owner,rewa,38.0,21 bhp,47000,220.0,Bajaj
+254,Bajaj Avenger 220cc,2014,22033,first owner,jaipur,40.0,19 bhp,41000,220.0,Bajaj
+255,Hero CD Deluxe 100cc,2012,59000,first owner,gorakhpur,65.0,7.70 bhp,35000,100.0,Hero
+256,Hero Passion Pro i3S Alloy 100cc IBS,2019,22465,first owner,mumbai,84.0,8.20 bhp,44000,100.0,Hero
+257,Hero HF Deluxe 100cc,2017,20000,first owner,gurgaon,55.0,6.15kW (8.36 Ps),20000,100.0,Hero
+258,Hero Splendor 100cc,2013,30768,first owner,mumbai,52.5,6.15kW (8.36 Ps),35000,100.0,Hero
+259,Yamaha FZs 150cc,2014,26330,first owner,hyderabad,45.0,13 bhp,45400,150.0,Yamaha
+260,Yamaha FZs 150cc,2015,18000,second owner,delhi,45.0,13 bhp,30000,150.0,Yamaha
+261,Hero Ignitor 125cc,2013,38000,first owner,mumbai,55.0,11 bhp,39425,125.0,Hero
+262,Yamaha FZs 150cc,2015,18000,first owner,delhi,45.0,13 bhp,48000,150.0,Yamaha
+263,Bajaj V12 125cc,2017,35000,first owner,bangalore,57.0,12bhp,45000,125.0,Bajaj
+264,Bajaj Avenger 220cc,2013,27000,first owner,mumbai,40.0,19 bhp,35000,220.0,Bajaj
+265,Hero CBZ Xtreme 150cc,2011,39000,first owner,vadodara,65.0,14.4PS,20500,150.0,Hero
+266,Hero Passion Pro 100cc,2013,21000,first owner,vadodara,5.0,8.2 Bhp,35500,100.0,Hero
+267,Hero Passion Pro 100cc,2017,20000,first owner,vadodara,5.0,8.2 Bhp,45000,100.0,Hero
+268,Hero Passion Pro 100cc,2008,30000,first owner,vadodara,5.0,8.2 Bhp,24500,100.0,Hero
+269,Bajaj Avenger 220cc,2013,45000,first owner,mumbai,40.0,19 bhp,45000,220.0,Bajaj
+270,Hero Achiever Disc 150cc,2017,5000,first owner,navsari,50.0,13 bhp,37700,150.0,Hero
+271,Bajaj Avenger 220cc,2015,19000,second owner,navi mumbai,40.0,19 bhp,47800,220.0,Bajaj
+272,Hero Passion Xpro 110cc,2015,30000,first owner,vadodara,55.0,6.72 KW (9.1 Ps),36500,110.0,Hero
+273,Bajaj Avenger 220cc,2015,18000,first owner,bareilly,40.0,19 bhp,45000,220.0,Bajaj
+274,Hero Splendor iSmart 110cc,2016,13000,first owner,chennai,55.0,9.30 bhp,20000,110.0,Hero
+275,Yamaha YZF-R15 150cc,2013,30000,third owner,delhi,42.0,16 bhp,37200,150.0,Yamaha
+276,Yamaha FZs 150cc,2015,41000,first owner,gurgaon,45.0,13 bhp,36550,150.0,Yamaha
+277,Hero Splendor Pro 100cc,2015,33000,first owner,delhi,81.0,8.20 bhp,35000,100.0,Hero
+278,Bajaj Pulsar 220F,2015,55333,first owner,ghaziabad,38.0,21 bhp,47300,220.0,Bajaj
+279,Hero Passion Pro 100cc,2011,43000,second owner,chennai,5.0,8.2 Bhp,20000,100.0,Hero
+280,Bajaj Discover 125ST,2013,19508,first owner,bangalore,65.0,12.5 ps,30000,125.0,Bajaj
+281,Mahindra Centuro Disc Brake 110cc,2015,28000,first owner,delhi,60.0,8.5 Bhp,28000,110.0,Mahindra
+282,KTM Duke 200cc,2014,98000,fourth owner or more,mumbai,35.0,25 bhp,46000,200.0,KTM
+283,Bajaj Pulsar 180cc,2016,22000,first owner,rajkot,65.0,17 bhp,45000,180.0,Bajaj
+284,Yamaha FZs 150cc,2008,45000,first owner,mumbai,45.0,13 bhp,20000,150.0,Yamaha
+285,Bajaj Pulsar 135LS,2012,40000,first owner,varanasi,64.0,13 bhp,20100,135.0,Bajaj
+286,Hero Passion Pro 100cc,2010,25000,first owner,delhi,5.0,8.2 Bhp,21000,100.0,Hero
+287,Hero Passion Pro 100cc,2009,22000,second owner,delhi,5.0,8.2 Bhp,19000,100.0,Hero
+288,Bajaj Pulsar 220F,2019,63000,fourth owner or more,jaipur,38.0,21 bhp,47200,220.0,Bajaj
+289,Bajaj CT 100 100cc,2016,32604,first owner,bangalore,89.0,8.10 bhp,29500,100.0,Bajaj
+290,Bajaj V15 150cc,2017,17000,first owner,delhi,57.0,11.80 bhp,38000,150.0,Bajaj
+291,Bajaj Avenger 180cc,2005,50000,second owner,mumbai,40.0,19 bhp,30000,180.0,Bajaj
+292,Hero Passion Pro 100cc,2011,45000,first owner,nokha,5.0,8.2 Bhp,19280,100.0,Hero
+293,Honda CBR 150R 150cc,2013,29461,second owner,delhi,38.0,18.28 bhp,45000,150.0,Honda
+294,Yamaha FZs 150cc,2014,32370,first owner,meerut,45.0,13 bhp,44000,150.0,Yamaha
+295,Bajaj Avenger Street 220,2016,14000,second owner,gurgaon,53.0,19 bhp,47000,220.0,Bajaj
+296,Hero Passion Pro i3S Alloy 100cc,2018,17000,first owner,delhi,84.0,8.20 bhp,42000,100.0,Hero
+297,Hero CBZ Xtreme 150cc,2011,27000,first owner,surat,65.0,14.4PS,25000,150.0,Hero
+298,Yamaha YZF-R15 150cc,2009,35779,first owner,kolkata,42.0,16 bhp,47000,150.0,Yamaha
+299,Bajaj Pulsar 220cc,2016,24000,second owner,jalgaon,38.0,21 bhp,48750,220.0,Bajaj
+300,Hero Splendor Plus Kick Alloy 100cc,2018,13500,first owner,faridabad,81.0,8.20 bhp,45000,100.0,Hero
+301,Bajaj Pulsar 180cc,2016,48000,first owner,delhi,65.0,17 bhp,42000,180.0,Bajaj
+302,Hero Passion Pro 100cc,2013,44000,first owner,pune,5.0,8.2 Bhp,37000,100.0,Hero
+303,Hero Passion Pro 100cc Disc Alloy,2019,100000,first owner,bhubaneshwar,5.0,8.2 Bhp,28500,100.0,Hero
+304,Bajaj Pulsar AS150,2016,32000,first owner,delhi,53.0,16.80 bhp,31694,150.0,Bajaj
+305,Bajaj Pulsar 180cc,2013,15000,first owner,delhi,65.0,15 bhp,30200,180.0,Bajaj
+306,Hero Splendor iSmart 100cc,2016,3000,first owner,anantapur,55.0,8.20 bhp,28000,100.0,Hero
+307,Royal Enfield Thunderbird 350cc,2005,45000,second owner,chennai,30.0,19.80 bhp,40000,350.0,Royal Enfield
+308,Bajaj Discover 125ST,2013,5000,first owner,jaipur,65.0,12.5 ps,21700,125.0,Bajaj
+309,Hero Passion Pro i3S Disc 100cc,2018,22000,first owner,delhi,84.0,8.20 bhp,47000,100.0,Hero
+310,Bajaj Avenger Street 150,2016,13000,first owner,ahmedabad,50.0,14.30 bhp,42000,150.0,Bajaj
+311,Royal Enfield Bullet Electra 350cc,2007,48000,first owner,gurgaon,30.0,19.8 Bhp,40000,350.0,Royal Enfield
+312,Yamaha YZF-R15 150cc,2012,37000,first owner,mumbai,42.0,16 bhp,39352,150.0,Yamaha
+313,Bajaj V15 150cc,2017,28000,second owner,,57.0,11.80 bhp,32000,150.0,Bajaj
+314,Hero Passion Pro 100cc Drum Alloy,2018,18000,first owner,ahmedabad,5.0,8.2 Bhp,47000,100.0,Hero
+315,Bajaj V15 150cc,2017,26000,second owner,delhi,57.0,11.80 bhp,32000,150.0,Bajaj
+316,Bajaj V15 150cc,2017,24853,second owner,delhi,57.0,11.80 bhp,30144,150.0,Bajaj
+317,TVS Sport 100cc,2016,18986,first owner,delhi,95.0,7.40 bhp,27000,100.0,TVS
+318,Hero Splendor iSmart 110cc,2017,35000,first owner,delhi,55.0,9.30 bhp,35000,110.0,Hero
+319,Bajaj Pulsar 180cc,2010,53000,first owner,mumbai,65.0,15 bhp,19000,180.0,Bajaj
+320,Bajaj Pulsar 180cc,2011,5000,first owner,delhi,65.0,15 bhp,22100,180.0,Bajaj
+321,Hero Passion Xpro 110cc,2015,17500,first owner,delhi,55.0,6.72 KW (9.1 Ps),31000,110.0,Hero
+322,Bajaj Pulsar 220F,2012,18500,first owner,delhi,38.0,21 bhp,25000,220.0,Bajaj
+323,Hero Splendor iSmart 110cc,2016,18500,first owner,delhi,55.0,9.30 bhp,33000,110.0,Hero
+324,Yamaha FZs 150cc,2015,15000,first owner,delhi,45.0,13 bhp,48500,150.0,Yamaha
+325,Yamaha FZs 150cc,2014,25000,first owner,delhi,45.0,13 bhp,38000,150.0,Yamaha
+326,Bajaj V15 150cc,2017,38456,first owner,jaipur,57.0,11.80 bhp,32250,150.0,Bajaj
+327,Bajaj Pulsar 220cc,2011,34000,first owner,mumbai,38.0,21 bhp,30000,220.0,Bajaj
+328,Bajaj Pulsar 180cc,2011,7000,first owner,mumbai,65.0,15 bhp,24200,180.0,Bajaj
+329,Bajaj CT 100 100cc,2006,11900,second owner,chennai,89.0,8.10 bhp,20000,100.0,Bajaj
+330,Honda CBR 150R 150cc,2013,28200,second owner,pune,38.0,18.28 bhp,49000,150.0,Honda
+331,Hero Splendor Pro 100cc,2015,33000,first owner,bangalore,81.0,8.20 bhp,33000,100.0,Hero
+332,Bajaj Pulsar 220cc,2019,78000,fourth owner or more,jaipur,38.0,21 bhp,41000,220.0,Bajaj
+333,Hero Passion Plus 100cc,2007,80000,first owner,sehore,55.0,7.5 Bhp,20000,100.0,Hero
+334,Bajaj V15 150cc,2019,6909,first owner,faridabad,57.0,11.80 bhp,46350,150.0,Bajaj
+335,Hero CBZ Xtreme 150cc,2014,50000,second owner,hyderabad,65.0,14.4PS,17958,150.0,Hero
+336,Hero Passion Pro 100cc,2015,38000,first owner,pune,84.0,8.2 Bhp,47000,100.0,Hero
+337,Hero HF Deluxe 100cc,2014,31281,first owner,jaipur,83.0,7.70 bhp,30600,100.0,Hero
+338,Honda CBR 150R 150cc,2013,17000,first owner,mumbai,38.0,18.28 bhp,45000,150.0,Honda
+339,Bajaj Pulsar 135LS,2010,80000,second owner,hyderabad,64.0,13 bhp,23000,135.0,Bajaj
+340,Bajaj Pulsar 180cc,2015,44000,first owner,gurgaon,45.0,17 bhp,32000,180.0,Bajaj
+341,Hero Splendor Plus 100cc,2016,12962,first owner,bhopal,81.0,8.20 bhp,45000,100.0,Hero
+342,Bajaj Avenger 220cc,2013,18000,first owner,delhi,40.0,19 bhp,35000,220.0,Bajaj
+343,Hero Passion Pro 100cc,2017,23000,second owner,bangalore,5.0,8.2 Bhp,44000,100.0,Hero
+344,Hero Karizma R 223cc,2013,48000,second owner,rajkot,40.0,17 bhp,24800,223.0,Hero
+345,Bajaj Pulsar 220F,2011,89000,third owner,bangalore,38.0,21 bhp,38000,220.0,Bajaj
+346,Bajaj Pulsar 220cc,2014,89000,third owner,jaipur,38.0,21 bhp,35000,220.0,Bajaj
+347,Bajaj Avenger 220cc,2013,17200,first owner,chennai,40.0,19 bhp,34000,220.0,Bajaj
+348,Hero Splendor Plus Self Alloy 100cc,2017,31000,first owner,ahmedabad,55.0,8.20 bhp,46000,100.0,Hero
+349,Yamaha YZF-R15 150cc,2011,12000,first owner,sonipat,42.0,16 bhp,48000,150.0,Yamaha
+350,Bajaj Discover 125ST,2012,43000,first owner,moradabad,65.0,12.5 ps,28000,125.0,Bajaj
+351,Bajaj Pulsar AS150,2016,40000,first owner,kolkata,53.0,16.80 bhp,42600,150.0,Bajaj
+352,Yamaha FZs 150cc,2016,18000,second owner,delhi,45.0,13 bhp,48500,150.0,Yamaha
+353,Yamaha FZs 150cc,2009,8000,first owner,bangalore,45.0,13 bhp,35000,150.0,Yamaha
+354,Hero Passion Plus 100cc,2006,93000,first owner,bangalore,55.0,7.5 Bhp,17000,100.0,Hero
+355,Bajaj Discover 125cc,2012,34000,first owner,mumbai,65.0,12.5 ps,22825,125.0,Bajaj
+356,Hero Karizma R 223cc,2014,37000,first owner,mumbai,40.0,17 bhp,35999,223.0,Hero
+357,Hero Passion Pro 100cc,2010,17900,first owner,ajmer,5.0,8.2 Bhp,21000,100.0,Hero
+358,Yamaha YZF-R15 2.0 150cc,2011,18550,first owner,delhi,42.0,16.70 bhp,44800,150.0,Yamaha
+359,Hero Honda Splendor 100cc,2011,30000,first owner,ranchi,52.5,6.15kW (8.36 Ps),30000,100.0,Hero
+360,Bajaj CT 100 KS Alloy CBS,2019,7000,first owner,saharanpur,67.0,8.10 bhp,39000,100.0,Bajaj
+361,Bajaj Discover 125ST,2012,55000,first owner,pune,65.0,12.5 ps,25000,125.0,Bajaj
+362,Yamaha FZs 150cc,2013,32200,first owner,mumbai,45.0,13 bhp,33200,150.0,Yamaha
+363,Hero CD Deluxe 100cc,2010,80000,first owner,ludhiana,65.0,7.70 bhp,24999,100.0,Hero
+364,TVS Sport 100cc,2014,43808,first owner,jaipur,95.0,7.40 bhp,18000,100.0,TVS
+365,Hero Super Splendor 125cc,2015,37000,first owner,delhi,75.0,9 bhp,33200,125.0,Hero
+366,Hero Super Splendor 125cc,2006,70884,first owner,lucknow,75.0,9 bhp,20000,125.0,Hero
+367,Hero Splendor Plus 100cc,2018,7400,first owner,udaipur,81.0,8.20 bhp,41900,100.0,Hero
+368,Bajaj CT 100 100cc,2017,36000,fourth owner or more,delhi,89.0,8.10 bhp,25000,100.0,Bajaj
+369,Hero Splendor Plus 100cc,2013,30000,first owner,pune,81.0,8.20 bhp,34874,100.0,Hero
+370,Bajaj Avenger Street 150,2016,30000,first owner,mumbai,50.0,14.30 bhp,37500,150.0,Bajaj
+371,TVS Star Sport 100cc,2016,20000,second owner,padrauna,95.0,7.40 bhp,20100,100.0,TVS
+372,Bajaj Pulsar 220cc,2014,38000,third owner,mumbai,38.0,21 bhp,38000,220.0,Bajaj
+373,Hero Passion Pro 100cc,2015,27800,second owner,hyderabad,84.0,8.2 Bhp,47000,100.0,Hero
+374,Hero CBZ Xtreme 150cc,2010,90000,first owner,durg,65.0,14.4PS,24999,150.0,Hero
+375,Honda Dream Yuga 110cc,2015,31000,first owner,chennai,84.0,8 bhp,33000,110.0,Honda
+376,Hero Splendor Plus 100cc,2015,26000,second owner,gurgaon,81.0,8.20 bhp,30500,100.0,Hero
+377,Bajaj V15 150cc,2017,19400,first owner,delhi,57.0,11.80 bhp,38000,150.0,Bajaj
+378,Hero Splendor Plus Kick Alloy 100cc,2014,27000,second owner,ahmedabad,81.0,8.20 bhp,35880,100.0,Hero
+379,Hero Splendor Plus 100cc,2017,27000,first owner,delhi,81.0,8.20 bhp,45000,100.0,Hero
+380,Hero Hunk 150cc,2009,20000,second owner,delhi,53.0,14 bhp,28000,150.0,Hero
+381,Hero Passion Plus 100cc,2009,22500,first owner,ludhiana,55.0,7.5 Bhp,20000,100.0,Hero
+382,Hero Passion Pro 100cc,2009,49660,first owner,delhi,5.0,8.2 Bhp,18600,100.0,Hero
+383,Hero Glamour Fi 125cc,2017,17200,second owner,jaipur,55.0,9 bhp,33000,125.0,Hero
+384,Bajaj Pulsar 200 NS 200cc,2014,12700,first owner,valsad,40.0,24.2 BHP,45900,200.0,Bajaj
+385,Royal Enfield Bullet Electra 350cc,2009,36324,first owner,ghaziabad,30.0,19.8 Bhp,49834,350.0,Royal Enfield
+386,Bajaj Pulsar 220cc,2009,65000,second owner,delhi,38.0,21 bhp,18400,220.0,Bajaj
+387,Bajaj Avenger Street 150,2016,20452,first owner,coimbatore,50.0,14.30 bhp,45000,150.0,Bajaj
+388,Bajaj Avenger 220cc,2013,10000,second owner,mumbai,40.0,19 bhp,33600,220.0,Bajaj
+389,Mahindra Centuro 110cc,2015,24000,first owner,delhi,60.0,8.5 Bhp,28000,110.0,Mahindra
+390,Bajaj Pulsar 180cc,2011,26000,first owner,bhiwani,65.0,15 bhp,23455,180.0,Bajaj
+391,Bajaj Pulsar 180cc,2009,12000,first owner,bhiwani,65.0,15 bhp,16444,180.0,Bajaj
+392,Hero Passion XPRO 110 cc,2014,42000,first owner,jaipur,50.0,6.72 KW (9.1 Ps),30000,110.0,Hero
+393,Hero Passion Pro 100cc,2011,20000,first owner,mumbai,5.0,8.2 Bhp,28838,100.0,Hero
+394,Hero Passion Plus 100cc,2008,50183,second owner,hyderabad,55.0,7.5 Bhp,29500,100.0,Hero
+395,Bajaj Avenger 220cc,2011,19000,first owner,ghaziabad,40.0,19 bhp,28300,220.0,Bajaj
+396,Suzuki Gixxer 150cc,2017,16000,first owner,gurgaon,63.0,14 bhp,47000,150.0,Suzuki
+397,Yamaha FZs 150cc,2013,48000,first owner,delhi,45.0,13 bhp,38700,150.0,Yamaha
+398,Honda CB Trigger 150cc,2014,33700,first owner,hyderabad,60.0,14 bhp,42000,150.0,Honda
+399,Yamaha YZF-R15 2.0 150cc,2012,46000,first owner,mumbai,42.0,16.70 bhp,48300,150.0,Yamaha
+400,Bajaj Avenger 220cc,2015,15495,first owner,gurgaon,40.0,19 bhp,35000,220.0,Bajaj
+401,Bajaj CT 100 KS Alloy,2019,4000,first owner,delhi,67.0,8.10 bhp,45000,100.0,Bajaj
+402,Hero Super Splendor 125cc,2017,33000,first owner,ghaziabad,75.0,9 bhp,40000,125.0,Hero
+403,Bajaj Pulsar 220cc,2015,67000,first owner,mumbai,38.0,21 bhp,41400,220.0,Bajaj
+404,Hero Glamour 125cc,2012,28000,second owner,sultanpur,55.0,8.90 bhp,24500,125.0,Hero
+405,Hero Passion Pro 100cc,2017,12771,first owner,ernakulam,5.0,8.2 Bhp,29339,100.0,Hero
+406,Bajaj V15 150cc,2018,16000,first owner,gwalior,57.0,11.80 bhp,45000,150.0,Bajaj
+407,Bajaj Avenger 220cc,2011,21045,second owner,bangalore,40.0,19 bhp,35000,220.0,Bajaj
+408,Bajaj Avenger 220cc,2013,15628,first owner,gurgaon,40.0,19 bhp,40000,220.0,Bajaj
+409,Bajaj Pulsar 180cc,2012,14000,second owner,bangalore,45.0,17 bhp,39000,180.0,Bajaj
+410,Bajaj Avenger 220cc,2013,30000,first owner,mumbai,40.0,19 bhp,44000,220.0,Bajaj
+411,Hero Passion 100cc ,2005,98000,first owner,barasat,55.0,7.5 Bhp,38000,100.0,Hero
+412,Hero Xtreme 150cc,2014,54000,first owner,gandhinagar,50.0,14.20 bhp,22300,150.0,Hero
+413,Hero Splendor iSmart 100cc,2015,21699,first owner,jaipur,55.0,8.20 bhp,38000,100.0,Hero
+414,Suzuki Gixxer 150cc,2015,41000,first owner,ghaziabad,63.0,14 bhp,41300,150.0,Suzuki
+415,Hero Karizma R 223cc,2011,23300,first owner,kolkata,40.0,17 bhp,30000,223.0,Hero
+416,Bajaj Pulsar 180cc,2013,34000,first owner,phagwara,65.0,15 bhp,31000,180.0,Bajaj
+417,Bajaj Avenger Street 150,2016,39500,first owner,ghaziabad,50.0,14.30 bhp,37000,150.0,Bajaj
+418,Suzuki Gixxer SF 150cc,2015,38000,first owner,guwahati,40.0,14.60 bhp,44000,150.0,Suzuki
+419,Hero Karizma R 223cc,2015,42000,first owner,bangalore,40.0,17 bhp,40000,223.0,Hero
+420,Hero HF Deluxe 100cc,2013,16615,first owner,jaipur,83.0,7.70 bhp,25000,100.0,Hero
+421,Suzuki Gixxer 150cc,2016,46530,first owner,ahmedabad,63.0,14 bhp,43000,150.0,Suzuki
+422,Bajaj Avenger Street 150,2017,30000,first owner,indore,45.0,14.30 bhp,48750,150.0,Bajaj
+423,Hero Super Splendor 125cc,2018,7329,first owner,ludhiana,75.0,9 bhp,44000,125.0,Hero
+424,Bajaj V15 150cc,2016,11500,first owner,gurgaon,57.0,11.80 bhp,30000,150.0,Bajaj
+425,Bajaj V12 125cc,2017,12500,first owner,gurgaon,57.0,12bhp,34000,125.0,Bajaj
+426,Bajaj Pulsar 220cc,2008,48000,second owner,roorkee,38.0,21 bhp,18000,220.0,Bajaj
+427,Bajaj Pulsar 220cc,2008,24000,first owner,bhiwani,38.0,21 bhp,19655,220.0,Bajaj
+428,Hero Splendor Plus Self Alloy 100cc,2018,17700,first owner,ahmedabad,55.0,8.20 bhp,49000,100.0,Hero
+429,Hero Xtreme Sports 150cc,2016,80000,first owner,kanchrapara,55.0,15.60 bhp,47000,150.0,Hero
+430,Bajaj Pulsar 220cc,2011,57000,first owner,surat,38.0,21 bhp,18500,220.0,Bajaj
+431,Hero Passion Pro 100cc,2016,30000,first owner,hyderabad,5.0,8.2 Bhp,46000,100.0,Hero
+432,Bajaj Discover 125cc,2013,36000,first owner,pune,65.0,12.5 ps,38000,125.0,Bajaj
+433,Hero Passion Xpro 110cc,2019,14000,first owner,delhi,55.0,8 bhp,48000,110.0,Hero
+434,Hero Karizma R 223cc,2009,36826,first owner,dewas,40.0,17 bhp,30000,223.0,Hero
+435,Hero Splendor iSmart 100cc,2016,24344,first owner,gurgaon,55.0,8.20 bhp,30000,100.0,Hero
+436,Bajaj Pulsar 180cc,2014,9300,third owner,pune,45.0,17 bhp,35000,180.0,Bajaj
+437,Hero CD Deluxe 100cc,2012,38150,first owner,jaipur,65.0,7.70 bhp,25000,100.0,Hero
+438,Hero Super Splendor 125cc,2006,85000,first owner,indore,75.0,9 bhp,20000,125.0,Hero
+439,Suzuki Gixxer SF 150cc,2015,49000,first owner,lucknow,40.0,14.60 bhp,43000,150.0,Suzuki
+440,Bajaj Pulsar 180cc,2012,67000,first owner,jaipur,45.0,17 bhp,26000,180.0,Bajaj
+441, Bajaj CT100 B 2016                                                ,2016,30000,first owner,mumbai,67.0,8.10 bhp,32000,100.0,Bajaj
+442,Bajaj CT 100 100cc,2018,15999,first owner,gurgaon,89.0,8.10 bhp,28000,100.0,Bajaj
+443,Bajaj Discover 125cc Disc,2019,11560,first owner,gurgaon,65.0,10.90 bhp,36000,125.0,Bajaj
+444,Bajaj Avenger Street 150,2016,50000,first owner,bagalkot,50.0,14.30 bhp,44600,150.0,Bajaj
+445,Bajaj V15 150cc,2016,35600,first owner,kolkata,57.0,11.80 bhp,36000,150.0,Bajaj
+446,Bajaj V15 150cc,2017,23431,first owner,gurgaon,57.0,11.80 bhp,32000,150.0,Bajaj
+447,Bajaj Avenger Street 150,2017,89000,second owner,jaipur,45.0,14.30 bhp,47000,150.0,Bajaj
+448,Bajaj V15 150cc,2017,37000,second owner,ahmedabad,57.0,11.80 bhp,40000,150.0,Bajaj
+449,Hero CBZ Xtreme 150cc,2008,50000,first owner,meerut,65.0,14.4PS,16000,150.0,Hero
+450,Bajaj Boxer AR100,2001,33500,first owner,nashik,72.0,12.0 PS,20000,100.0,Bajaj
+451,Hero Hunk 150cc,2013,51000,first owner,jaipur,53.0,14 bhp,35000,150.0,Hero
+452,Hero Passion Plus 100cc,2004,57000,first owner,aligarh,55.0,7.5 Bhp,18000,100.0,Hero
+453,Hero Splendor Pro 100cc,2016,57000,first owner,alanganallur,81.0,8.20 bhp,40000,100.0,Hero
+454,Bajaj V15 150cc,2017,4200,first owner,kolkata,57.0,11.80 bhp,49000,150.0,Bajaj
+455,Hero Passion Plus 100cc,2007,50000,first owner,indore,55.0,7.5 Bhp,27000,100.0,Hero
+456,Bajaj Pulsar 180cc,2011,41000,first owner,narnaul,65.0,15 bhp,25000,180.0,Bajaj
+457,Hero Splendor 100cc,1994,366600,fourth owner or more,jaipur,45.0,7.44bhp,36508,100.0,Hero
+458,Bajaj Avenger 220cc,2012,98000,first owner,jaipur,40.0,19 bhp,26000,220.0,Bajaj
+459,Hero Passion Plus 100cc,2009,60000,first owner,bangalore,55.0,7.5 Bhp,30000,100.0,Hero
+460,Hero Passion Pro 100cc,2019,19000,first owner,bharatpur,5.0,8.2 Bhp,49400,100.0,Hero
+461,Bajaj Pulsar 135LS,2010,65000,second owner,vaikom,64.0,13 bhp,17000,135.0,Bajaj
+462,Bajaj Pulsar 180cc,2015,25000,second owner,pune,45.0,17 bhp,45000,180.0,Bajaj
+463,Bajaj CT 100 100cc,2018,27184,first owner,dakshina kannada,89.0,8.10 bhp,38000,100.0,Bajaj
+464,Bajaj CT 100 ES Alloy,2019,17918,first owner,mumbai,67.0,8.10 bhp,45000,100.0,Bajaj
+465,Bajaj Pulsar 150cc,2004,65400,first owner,mumbai,65.0,15 bhp,25000,150.0,Bajaj
+466,Bajaj V15 150cc,2016,15000,first owner,bangalore,57.0,11.80 bhp,37000,150.0,Bajaj
+467,Hero Super Splendor 125cc,2014,10000,first owner,vidisha,75.0,9 bhp,40000,125.0,Hero
+468,Hero HF Deluxe 100cc,2013,38000,first owner,lucknow,83.0,7.70 bhp,40000,100.0,Hero
+469,Hero Glamour 125cc,2006,35000,first owner,ahmedabad,55.0,8.90 bhp,15333,125.0,Hero
+470,Hero Splendor Plus 100cc,2008,32075,second owner,bangalore,81.0,8.20 bhp,30000,100.0,Hero
+471,Hero CBZ Xtreme 150cc,2011,15000,second owner,delhi,65.0,14.4PS,23900,150.0,Hero
+472,Hero Passion Pro 100cc,2013,35000,first owner,hyderabad,5.0,8.2 Bhp,34895,100.0,Hero
+473,Yamaha FZs 150cc,2013,40000,first owner,ghaziabad,45.0,13 bhp,45000,150.0,Yamaha
+474,Hero CBZ Xtreme 150cc,2014,22850,second owner,ahmedabad,65.0,14.4PS,27786,150.0,Hero
+475,Suzuki Hayate 110cc,2012,69600,first owner,delhi,69.0,8.3 bhp,22000,110.0,Suzuki
+476,Hero Passion Pro 100cc,2017,18000,first owner,delhi,5.0,8.2 Bhp,45000,100.0,Hero
+477,Bajaj Discover 100T,2013,58546,first owner,bikaner,56.0,8.51 PS,22000,100.0,Bajaj
+478,Yamaha FZs 150cc,2014,18000,first owner,bangalore,45.0,13 bhp,42000,150.0,Yamaha
+479,Bajaj Discover 125ST,2012,21000,first owner,jabalpur,65.0,12.5 ps,30000,125.0,Bajaj
+480,Bajaj Pulsar 220cc,2009,11900,first owner,chennai,38.0,21 bhp,33000,220.0,Bajaj
+481,Hero Splendor iSmart 110cc,2015,39571,first owner,,50.0,7 Kw,24000,110.0,Hero
+482,Bajaj Avenger Street 150,2016,22000,first owner,ahmedabad,50.0,14.30 bhp,41500,150.0,Bajaj
+483,Bajaj Pulsar 180cc,2015,30000,second owner,siliguri,45.0,17 bhp,49000,180.0,Bajaj
+484,Yamaha FZs 150cc,2012,34000,second owner,pune,45.0,13 bhp,45000,150.0,Yamaha
+485,TVS Star City 110cc,2011,24000,first owner,ghaziabad,85.0,8.2 bhp,20000,110.0,TVS
+486,Hero Karizma ZMR 223cc,2015,37000,first owner,delhi,48.0,20 bhp,36300,223.0,Hero
+487,Bajaj Discover 125cc,2016,28000,first owner,delhi,65.0,12.5 ps,31000,125.0,Bajaj
+488,Yamaha YZF-R15 150cc,2010,21322,first owner,gurgaon,42.0,16 bhp,30000,150.0,Yamaha
+489,Bajaj Pulsar 180cc,2011,40000,second owner,ghaziabad,65.0,15 bhp,25000,180.0,Bajaj
+490,Bajaj Avenger Street 150,2016,14000,second owner,ahmedabad,50.0,14.30 bhp,48800,150.0,Bajaj
+491,Bajaj Pulsar 220cc,2012,25000,first owner,gurgaon,38.0,21 bhp,32000,220.0,Bajaj
+492,Hero Hunk 150cc,2010,70927,first owner,ahmedabad,53.0,14 bhp,21500,150.0,Hero
+493,Bajaj V15 150cc,2016,19845,first owner,bangalore,57.0,11.80 bhp,33433,150.0,Bajaj
+494,Bajaj Discover 125ST,2016,29148,first owner,delhi,65.0,12.5 ps,21075,125.0,Bajaj
+495,Hero Splendor Plus 100cc,2009,47000,first owner,rohtak,81.0,8.20 bhp,15200,100.0,Hero
+496,Hero HF Deluxe Kick Alloy 100cc,2018,11000,first owner,gurgaon,55.0,6.15kW (8.36 Ps),37000,100.0,Hero
+497,Hero Splendor Plus 100cc,2015,51576,first owner,ernakulam,81.0,8.20 bhp,19695,100.0,Hero
+498,Yamaha FZs 150cc,2013,24028,first owner,bangalore,45.0,13 bhp,38000,150.0,Yamaha
+499,Bajaj Pulsar 180cc,2011,29000,second owner,bangalore,65.0,15 bhp,25000,180.0,Bajaj
+500,Hero HF Deluxe self Alloy 100cc,2017,15456,first owner,gurgaon,55.0,6.15kW (8.36 Ps),32000,100.0,Hero
+501,Hero Hunk 150cc,2016,34000,first owner,bhubaneshwar,53.0,14 bhp,35000,150.0,Hero
+502,Yamaha FZs 150cc,2013,49500,first owner,guwahati,45.0,13 bhp,40000,150.0,Yamaha
+503,Hero Passion Plus 100cc,2006,20000,first owner,thane,55.0,7.5 Bhp,22000,100.0,Hero
+504,Hero Karizma 223cc,2006,40000,first owner,bangalore,40.0,17 bhp,16130,223.0,Hero
+505,Hero CD Deluxe 100cc,2015,20000,first owner,jaipur,65.0,7.70 bhp,25000,100.0,Hero
+506,Bajaj Avenger Street 150,2016,19500,first owner,gurgaon,50.0,14.30 bhp,47000,150.0,Bajaj
+507,Hero HF Deluxe Self 100cc,2016,25760,first owner,delhi,55.0,6.15kW (8.36 Ps),35000,100.0,Hero
+508,Hero Splendor Pro 100cc,2012,25000,second owner,tirunelveli,81.0,8.20 bhp,29000,100.0,Hero
+509,Bajaj V12 125cc,2017,18000,first owner,gurgaon,57.0,12bhp,31000,125.0,Bajaj
+510,Bajaj V12 125cc,2016,48628,first owner,chandigarh,57.0,10.60 bhp,25600,125.0,Bajaj
+511,Suzuki Gixxer SF 150cc,2015,21866,first owner,navi mumbai,40.0,14.60 bhp,48400,150.0,Suzuki
+512,Hero Ignitor Disc 125cc,2013,100000,first owner,gurgaon,55.0,11 bhp,20000,125.0,Hero
+513,Bajaj CT 100 100cc,2018,18846,first owner,bangalore,89.0,8.10 bhp,44000,100.0,Bajaj
+514,Hero Passion Plus 100cc,2006,99000,first owner,nalgonda,55.0,7.5 Bhp,16500,100.0,Hero
+515,Bajaj Avenger Street 150,2016,45000,first owner,raipur,50.0,14.30 bhp,49500,150.0,Bajaj
+516,Suzuki Slingshot Plus 125cc,2012,38000,first owner,delhi,59.0,8.50 bhp,22000,125.0,Suzuki
+517,Yamaha FZs 150cc,2016,32000,first owner,delhi,45.0,13 bhp,47000,150.0,Yamaha
+518,Hero Karizma R 223cc,2011,32514,first owner,pune,40.0,17 bhp,47000,223.0,Hero
+519,Bajaj V15 150cc,2016,13320,first owner,nashik,57.0,11.80 bhp,47000,150.0,Bajaj
+520,Bajaj CT 100 ES Alloy,2018,29065,first owner,gurgaon,67.0,8.10 bhp,27000,100.0,Bajaj
+521,Hero Passion Xpro 110cc,2015,145000,first owner,delhi,55.0,6.72 KW (9.1 Ps),28200,110.0,Hero
+522,Bajaj V15 150cc,2015,18000,first owner,vadodara,57.0,11.80 bhp,35216,150.0,Bajaj
+523,Hero CBZ Xtreme 150cc,2015,25000,first owner,vadodara,65.0,14.4PS,29760,150.0,Hero
+524,Hero Splendor Plus Kick Alloy 100cc,2014,50000,second owner,baghpat,81.0,8.20 bhp,25000,100.0,Hero
+525,Yamaha YZF-R15 150cc,2011,27000,first owner,mumbai,42.0,16 bhp,42400,150.0,Yamaha
+526,Hero Glamour 125cc,2013,48000,first owner,bangalore,55.0,8.90 bhp,30000,125.0,Hero
+527,Hero Passion Xpro 110cc,2014,27000,first owner,delhi,55.0,6.72 KW (9.1 Ps),37000,110.0,Hero
+528,Bajaj Pulsar 135LS,2011,56735,first owner,vadodara,64.0,13 bhp,18000,135.0,Bajaj
+529,Bajaj CT 100 ES Alloy,2019,15452,first owner,gurgaon,67.0,8.10 bhp,30000,100.0,Bajaj
+530,TVS Apache 150cc,2015,2500,first owner,ludhiana,54.0,13.7 Bhp,48750,150.0,TVS
+531,Bajaj Pulsar 180cc,2010,39907,first owner,pune,65.0,15 bhp,28500,180.0,Bajaj
+532,Bajaj V15 150cc,2018,15000,second owner,kakinada,57.0,11.80 bhp,45000,150.0,Bajaj
+533,KTM Duke 200cc,2013,23000,third owner,mumbai,35.0,25 bhp,40000,200.0,KTM
+534,Hero Ignitor 125cc,2014,60000,first owner,nashik,55.0,11 bhp,28000,125.0,Hero
+535,Bajaj Pulsar 135LS,2013,110000,first owner,pune,64.0,13 bhp,28999,135.0,Bajaj
+536,TVS Sport 100cc,2016,42000,first owner,faridabad,95.0,7.40 bhp,25000,100.0,TVS
+537,Hero Passion Pro 100cc,2013,22000,first owner,vadodara,5.0,8.2 Bhp,34720,100.0,Hero
+538,Bajaj V15 150cc,2017,18000,second owner,delhi,57.0,11.80 bhp,42000,150.0,Bajaj
+539,Hero Splendor Plus 100cc,2013,24460,first owner,pune,81.0,8.20 bhp,40000,100.0,Hero
+540,Bajaj V15 150cc,2016,6725,second owner,delhi,57.0,11.80 bhp,26000,150.0,Bajaj
+541,Bajaj V15 150cc,2017,22000,first owner,ghaziabad,57.0,11.80 bhp,38500,150.0,Bajaj
+542,Hero CBZ Xtreme 150cc,2011,45000,second owner,surat,65.0,14.4PS,20000,150.0,Hero
+543,Bajaj V15 150cc,2016,26500,second owner,delhi,57.0,11.80 bhp,33500,150.0,Bajaj
+544,Bajaj V15 150cc,2016,30000,first owner,meerut,57.0,11.80 bhp,31300,150.0,Bajaj
+545,Hero Passion Pro 100cc,2012,26000,first owner,delhi,5.0,8.2 Bhp,28000,100.0,Hero
+546,Bajaj Pulsar 220cc,2012,25463,second owner,delhi,38.0,21 bhp,38000,220.0,Bajaj
+547,Bajaj V15 150cc,2018,17000,first owner,lucknow,57.0,11.80 bhp,45000,150.0,Bajaj
+548,Bajaj V15 150cc,2017,10000,first owner,jalandhar,57.0,11.80 bhp,39000,150.0,Bajaj
+549,Bajaj Pulsar 180cc,2015,73000,second owner,chandigarh,45.0,17 bhp,45000,180.0,Bajaj
+550,Bajaj Avenger 220cc,2015,24000,first owner,bangalore,40.0,19 bhp,45000,220.0,Bajaj
+551,Hero CBZ 150cc,2007,20000,first owner,ludhiana,65.0,12.8ps,16000,150.0,Hero
+552,Bajaj Pulsar 135LS,2016,59000,first owner,hyderabad,64.0,13 bhp,30000,135.0,Bajaj
+553,Hero Passion Pro i3S Alloy 100cc IBS,2019,16100,first owner,noida,84.0,8.20 bhp,44400,100.0,Hero
+554,Bajaj Pulsar 135LS,2009,26333,second owner,jaipur,64.0,13 bhp,24000,135.0,Bajaj
+555,Hero Karizma ZMR 223cc,2014,35000,second owner,indore,48.0,20 bhp,33000,223.0,Hero
+556,Bajaj Pulsar 180cc,2010,45000,first owner,patna,65.0,15 bhp,25000,180.0,Bajaj
+557,Hero CBZ 150cc,2009,28195,second owner,gurgaon,65.0,12.8ps,16000,150.0,Hero
+558,Bajaj  Pulsar 180cc,2008,40000,first owner,gurgaon,45.0,17 bhp,20000,180.0,Bajaj
+559,Hero Passion Xpro 110cc,2014,46000,second owner,hyderabad,55.0,6.72 KW (9.1 Ps),36000,110.0,Hero
+560,Hero Splendor 100cc,2002,24000,second owner,pune,45.0,7.44bhp,20580,100.0,Hero
+561,Suzuki Gixxer 150cc,2015,11250,first owner,bangalore,63.0,14 bhp,48400,150.0,Suzuki
+562,Hero HF Deluxe Self 100cc,2016,14321,first owner,gurgaon,55.0,6.15kW (8.36 Ps),30000,100.0,Hero
+563,Hero Splendor Plus 100cc,2013,24537,first owner,jaipur,81.0,8.20 bhp,32000,100.0,Hero
+564,TVS Star City 110cc,2011,29042,first owner,bangalore,85.0,8.2 bhp,28000,110.0,TVS
+565,Hero CD Deluxe 100cc,2010,45000,second owner,jatani,65.0,7.70 bhp,24750,100.0,Hero
+566,Hero CBZ Xtreme 150cc,2011,60000,first owner,pune,65.0,14.4PS,34650,150.0,Hero
+567,Bajaj Avenger 220cc,2016,26000,first owner,surat,40.0,19 bhp,48500,220.0,Bajaj
+568,Hero Passion Pro 100cc,2009,34000,first owner,faridabad,5.0,8.2 Bhp,15400,100.0,Hero
+569,Honda CB Trigger 150cc,2014,60000,third owner,gurgaon,60.0,14 bhp,30500,150.0,Honda
+570,Suzuki Gixxer SF 150cc Rear Disc,2016,10600,first owner,palanpur,40.0,14.60 bhp,46500,150.0,Suzuki
+571,Bajaj V15 150cc,2018,17000,first owner,delhi,57.0,11.80 bhp,40000,150.0,Bajaj
+572,Hero Super Splendor 125cc,2007,40000,first owner,faridabad,75.0,9 bhp,15800,125.0,Hero
+573,Honda CB Trigger 150cc,2014,23993,first owner,gurgaon,60.0,14 bhp,28500,150.0,Honda
+574,Bajaj Pulsar 220cc,2016,36922,first owner,ahmedabad,38.0,21 bhp,44400,220.0,Bajaj
+575,Bajaj Avenger 220cc,2013,29800,first owner,bangalore,40.0,19 bhp,41000,220.0,Bajaj
+576,Hero Splendor Plus 100cc,2014,45829,first owner,hyderabad,81.0,8.20 bhp,41000,100.0,Hero
+577,Bajaj Discover 125cc,2018,11000,first owner,delhi,65.0,12.5 ps,38000,125.0,Bajaj
+578,Bajaj V15 150cc,2017,6336,first owner,ludhiana,57.0,11.80 bhp,43000,150.0,Bajaj
+579,Bajaj CT 100 KS Alloy,2018,6000,first owner,delhi,67.0,8.10 bhp,41000,100.0,Bajaj
+580,Hero Super Splendor 125cc,2019,948,first owner,ernakulam,75.0,9 bhp,43778,125.0,Hero
+581,Bajaj Avenger 220cc,2015,24000,first owner,jodhpur,40.0,19 bhp,49000,220.0,Bajaj
+582,Hero HF Deluxe 100cc,2013,25000,first owner,jaipur,83.0,7.70 bhp,25000,100.0,Hero
+583,Bajaj V15 150cc,2017,14000,first owner,delhi,57.0,11.80 bhp,38000,150.0,Bajaj
+584,Hero HF Deluxe 100cc,2016,12800,first owner,ludhiana,83.0,7.70 bhp,43500,100.0,Hero
+585,Bajaj V15 150cc,2017,12000,first owner,hansi,57.0,11.80 bhp,38000,150.0,Bajaj
+586,Bajaj Pulsar 180cc,2014,33540,second owner,bangalore,45.0,17 bhp,35000,180.0,Bajaj
+587,Hero Splendor Plus 100cc,2017,20000,first owner,chalthan,81.0,8.20 bhp,44000,100.0,Hero
+588,Bajaj Platina 100cc ComforTec Alloy,2018,8000,first owner,delhi,90.0,8.10 bhp,45000,100.0,Bajaj
+589,Bajaj Pulsar 220F,2013,49000,first owner,mumbai,38.0,21 bhp,45000,220.0,Bajaj
+590,Hero Karizma R 223cc,2007,45000,second owner,bangalore,40.0,17 bhp,36000,223.0,Hero
+591,Mahindra Centuro 110cc,2013,2600,first owner,rohtak,60.0,8.5 Bhp,18500,110.0,Mahindra
+592,Hero Passion Pro 100cc,2010,40000,first owner,jaipur,5.0,8.2 Bhp,21800,100.0,Hero
+593,Hero CBZ 150cc,2011,26000,first owner,aligarh,65.0,12.8ps,15900,150.0,Hero
+594,Bajaj V15 150cc,2018,24000,first owner,gurgaon,57.0,11.80 bhp,40200,150.0,Bajaj
+595,Bajaj V15 150cc,2018,22500,first owner,burdwan,57.0,11.80 bhp,43000,150.0,Bajaj
+596,Bajaj Avenger Street 150,2016,35000,first owner,gurgaon,50.0,14.30 bhp,42000,150.0,Bajaj
+597,Bajaj Discover 125T,2013,58000,second owner,bangalore,68.0,12.5 ps,38000,125.0,Bajaj
+598,Bajaj Pulsar 220cc,2008,45000,first owner,ganganagar,38.0,21 bhp,30000,220.0,Bajaj
+599,Bajaj V15 150cc,2017,32000,first owner,gurgaon,57.0,11.80 bhp,38000,150.0,Bajaj
+600,Mahindra Centuro NXT 110cc,2015,26000,first owner,varanasi,60.0,8.5 Bhp,32000,110.0,Mahindra
+601,Honda CB Trigger 150cc,2014,38527,first owner,mumbai,60.0,14 bhp,34850,150.0,Honda
+602,Bajaj V15 150cc,2017,16000,first owner,gwalior,57.0,11.80 bhp,44000,150.0,Bajaj
+603,Hero CBZ Xtreme 150cc,2010,30000,first owner,chandigarh,65.0,14.4PS,32000,150.0,Hero
+604,Suzuki Hayate 110cc,2014,24943,first owner,,69.0,8.3 bhp,16560,110.0,Suzuki
+605,Bajaj Pulsar 180cc,2007,25000,second owner,kalyan,65.0,15 bhp,18000,180.0,Bajaj
+606,Bajaj Pulsar 180cc,2014,64000,second owner,hyderabad,45.0,17 bhp,48000,180.0,Bajaj
+607,Honda CD 110 Dream,2014,40000,first owner,delhi,83.0,8.25 bhp,27000,110.0,Honda
+608,Bajaj Avenger 220cc,2013,29106,first owner,,40.0,19 bhp,35400,220.0,Bajaj
+609,Bajaj Discover 135cc,2010,44000,first owner,delhi,65.0,9.64 kw,17250,135.0,Bajaj
+610,Suzuki Gixxer SF 150cc,2015,16000,first owner,delhi,40.0,14.60 bhp,39100,150.0,Suzuki
+611,Royal Enfield Thunderbird 350cc,2008,47318,first owner,thane,30.0,19.80 bhp,44000,350.0,Royal Enfield
+612,Suzuki Gixxer SF 150cc,2015,37000,first owner,vasai,40.0,14.60 bhp,43300,150.0,Suzuki
+613,Honda CB Trigger 150cc,2014,35300,second owner,hosur,60.0,14 bhp,38600,150.0,Honda
+614,Bajaj V15 150cc,2016,74500,first owner,,57.0,11.80 bhp,27800,150.0,Bajaj
+615,Bajaj Pulsar 220F,2011,50000,first owner,mumbai,38.0,21 bhp,31125,220.0,Bajaj
+616,Suzuki Slingshot Plus 125cc,2014,31945,first owner,chennai,59.0,8.50 bhp,32000,125.0,Suzuki
+617,Hero Ignitor Disc 125cc,2016,14367,first owner,gurgaon,55.0,11 bhp,28000,125.0,Hero
+618,Hero Hunk 150cc,2014,12331,second owner,gurgaon,53.0,14 bhp,26000,150.0,Hero
+619,Royal Enfield Bullet Electra 350cc,2004,30000,second owner,delhi,30.0,19.8 Bhp,36900,350.0,Royal Enfield
+620,Hero Passion Pro 100cc,2014,19980,first owner,jaipur,5.0,8.2 Bhp,35000,100.0,Hero
+621,Hero Xtreme 150cc,2013,25000,first owner,bangalore,50.0,14.20 bhp,30000,150.0,Hero
+622,Bajaj Pulsar 220F,2010,46333,third owner,dakshina kannada,38.0,21 bhp,35000,220.0,Bajaj
+623,Mahindra Centuro 110cc,2013,10000,first owner,malout,60.0,8.5 Bhp,17800,110.0,Mahindra
+624,Bajaj Pulsar 220F,2013,42000,second owner,amila,38.0,21 bhp,27000,220.0,Bajaj
+625,Royal Enfield Thunderbird 350cc,2010,60000,first owner,ahmedabad,35.0,19.80 bhp,49000,350.0,Royal Enfield
+626,Bajaj Pulsar 180cc,2010,60000,second owner,bangalore,65.0,15 bhp,28000,180.0,Bajaj
+627,Hero Hunk 150cc,2009,60000,first owner,noida,53.0,14 bhp,45000,150.0,Hero
+628,Bajaj Pulsar 180cc,2009,25000,first owner,meerut,65.0,15 bhp,40000,180.0,Bajaj
+629,Hero Splendor iSmart 110cc,2016,9246,first owner,delhi,55.0,9.30 bhp,38400,110.0,Hero
+630,Bajaj Avenger Cruise 220,2015,47000,first owner,kurukshetra,35.0,19 bhp,40000,220.0,Bajaj
+631,Hero Splendor Plus 100cc,2006,46000,first owner,jaipur,81.0,8.20 bhp,26000,100.0,Hero
+632,Bajaj V12 125cc,2017,31220,first owner,gurgaon,57.0,12bhp,32000,125.0,Bajaj
+633,Hero Honda Splendor Plus 100cc,2011,80000,first owner,kasganj,52.5,6.15kW (8.36 Ps),20000,100.0,Hero
+634,Bajaj Discover 125M,2014,20000,first owner,delhi,65.0,12.5 ps,29900,125.0,Bajaj
+635,Bajaj Pulsar 135LS,2016,52000,first owner,mumbai,64.0,13 bhp,45000,135.0,Bajaj
+636,Hero HF Deluxe self Alloy 100cc,2017,33596,first owner,delhi,55.0,6.15kW (8.36 Ps),44000,100.0,Hero
+637,Bajaj V15 150cc,2016,17300,first owner,hyderabad,57.0,11.80 bhp,43000,150.0,Bajaj
+638,Bajaj Avenger Street 150,2016,33500,first owner,mumbai,50.0,14.30 bhp,44700,150.0,Bajaj
+639,Hero Karizma R 223cc,2012,41467,first owner,hyderabad,40.0,17 bhp,38500,223.0,Hero
+640,Bajaj CT 100 100cc,2006,20263,first owner,aurangabad,89.0,8.10 bhp,25000,100.0,Bajaj
+641,Bajaj Pulsar 180cc,2011,38000,first owner,lucknow,65.0,15 bhp,24000,180.0,Bajaj
+642,Mahindra Centuro 110cc,2013,50000,first owner,delhi,60.0,8.5 Bhp,31000,110.0,Mahindra
+643,Bajaj Discover 125ST,2013,34000,third owner,faridabad,65.0,12.5 ps,17600,125.0,Bajaj
+644,Hero Super Splendor 125cc,2014,29400,second owner,faridabad,75.0,9 bhp,19500,125.0,Hero
+645,Bajaj V15 150cc,2018,25500,first owner,bahadurgarh,57.0,11.80 bhp,40000,150.0,Bajaj
+646,Hero Karizma R 223cc,2014,41000,first owner,kolkata,40.0,17 bhp,30000,223.0,Hero
+647,Bajaj Avenger Street 150,2015,35000,first owner,ratlam,50.0,14.30 bhp,47500,150.0,Bajaj
+648,Yamaha FZs 150cc,2013,28592,first owner,ahmedabad,45.0,13 bhp,41500,150.0,Yamaha
+649,Bajaj Pulsar 135LS,2012,46000,first owner,delhi,64.0,13 bhp,30000,135.0,Bajaj
+650,Hero CBZ 150cc,2012,43400,first owner,pune,65.0,12.8ps,35000,150.0,Hero
+651,Yamaha FZs 150cc,2010,52000,third owner,bangalore,45.0,13 bhp,30000,150.0,Yamaha
+652,Hero Passion Xpro 110cc,2018,43300,first owner,delhi,55.0,6.72 KW (9.1 Ps),40000,110.0,Hero
+653,Hero Passion Plus 100cc,2007,35000,second owner,ahmedabad,55.0,7.5 Bhp,16333,100.0,Hero
+654,Suzuki Gixxer 150cc,2015,40000,first owner,delhi,63.0,14 bhp,39400,150.0,Suzuki
+655,Bajaj Avenger 220cc,2014,20664,first owner,ahmedabad,40.0,19 bhp,35000,220.0,Bajaj
+656,Hero Xtreme 150cc,2016,23000,second owner,varanasi,50.0,14.20 bhp,40000,150.0,Hero
+657,Bajaj V15 150cc,2016,23000,first owner,varanasi,57.0,11.80 bhp,30000,150.0,Bajaj
+658,Bajaj Pulsar 220F,2011,11000,first owner,jaipur,38.0,21 bhp,30200,220.0,Bajaj
+659,Bajaj Pulsar 180cc,2014,65000,first owner,jaipur,45.0,17 bhp,38000,180.0,Bajaj
+660,Bajaj Avenger 220cc,2014,23500,first owner,pune,40.0,19 bhp,45100,220.0,Bajaj
+661,Hero Passion Pro 100cc,2016,24000,first owner,ahmedabad,5.0,8.2 Bhp,38000,100.0,Hero
+662,Hero Passion Plus 100cc,2006,44375,first owner,bangalore,55.0,7.5 Bhp,16000,100.0,Hero
+663,Hero Glamour 125cc,2012,55786,first owner,guntur,55.0,8.90 bhp,40580,125.0,Hero
+664,Bajaj Avenger Street 220,2016,15000,first owner,mumbai,53.0,19 bhp,49999,220.0,Bajaj
+665,Bajaj Discover 125cc,2013,43840,first owner,kanyakumari,65.0,12.5 ps,30000,125.0,Bajaj
+666,Bajaj Pulsar 135LS,2014,31000,first owner,pune,64.0,13 bhp,35000,135.0,Bajaj
+667,Bajaj Avenger 220cc,2012,19000,second owner,delhi,40.0,19 bhp,22125,220.0,Bajaj
+668,Suzuki Gixxer 150cc,2017,48500,first owner,vijayawada,63.0,14 bhp,48000,150.0,Suzuki
+669,Hero Hunk 150cc,2009,55000,first owner,ahmedabad,53.0,14 bhp,20000,150.0,Hero
+670,Honda Dream Yuga 110cc,2015,29000,first owner,hyderabad,84.0,8 bhp,38000,110.0,Honda
+671,Honda CB 1000R,2010,22000,second owner,ghaziabad,16.0,129 bhp,23000,1000.0,Honda
+672,Hero CBZ Xtreme 150cc,2013,35000,first owner,pune,65.0,14.4PS,32000,150.0,Hero
+673,Hero Splendor Plus 100cc,2012,21298,first owner,mumbai,81.0,8.20 bhp,37000,100.0,Hero
+674,Suzuki Gixxer SF 150cc,2015,45000,first owner,ahmednagar,40.0,14.60 bhp,42000,150.0,Suzuki
+675,Hero Splendor Plus 100cc,2010,15500,first owner,ludhiana,81.0,8.20 bhp,24000,100.0,Hero
+676,Hero Splendor 100cc,2012,56000,first owner,ambala,52.5,6.15kW (8.36 Ps),18800,100.0,Hero
+677,Hero Karizma R 223cc,2015,11045,second owner,gurgaon,40.0,17 bhp,31300,223.0,Hero
+678,Bajaj Avenger Street 220,2015,20300,first owner,lucknow,53.0,19 bhp,41600,220.0,Bajaj
+679,Hero Karizma R 223cc,2014,12000,first owner,bangalore,40.0,17 bhp,40000,223.0,Hero
+680,Hero HF Deluxe Self 100cc,2013,49000,first owner,patna,55.0,6.15kW (8.36 Ps),28000,100.0,Hero
+681,Hero Super Splendor 125cc,2014,39000,second owner,delhi,75.0,9 bhp,32000,125.0,Hero
+682,Bajaj V15 150cc,2016,22993,second owner,delhi,57.0,11.80 bhp,35000,150.0,Bajaj
+683,Hero Splendor iSmart 110cc,2016,22000,first owner,delhi,55.0,9.30 bhp,37000,110.0,Hero
+684,TVS Star City Plus 110cc,2014,16000,first owner,delhi,85.0,8.2 bhp,28000,110.0,TVS
+685,Bajaj Avenger 220cc,2013,45000,first owner,delhi,40.0,19 bhp,35000,220.0,Bajaj
+686,Bajaj V15 150cc,2018,26000,first owner,jaipur,57.0,11.80 bhp,31125,150.0,Bajaj
+687,Bajaj V15 150cc,2017,14000,first owner,faridabad,57.0,11.80 bhp,37000,150.0,Bajaj
+688,TVS Star City Plus 110cc,2018,22112,first owner,chennai,85.0,8.2 bhp,40000,110.0,TVS
+689,Yamaha YZF-R15 150cc,2010,20000,third owner,gurgaon,42.0,16 bhp,35000,150.0,Yamaha
+690,Hero Hunk 150cc,2013,40900,first owner,pune,53.0,14 bhp,35000,150.0,Hero
+691,Bajaj Avenger 220cc,2013,40000,second owner,hyderabad,40.0,19 bhp,29025,220.0,Bajaj
+692,TVS Sport 100cc,2019,40000,second owner,hyderabad,95.0,7.40 bhp,41000,100.0,TVS
+693,Bajaj Pulsar AS150,2015,28000,first owner,pune,53.0,16.80 bhp,45000,150.0,Bajaj
+694,Hero Karizma R 223cc,2011,45000,first owner,howrah,40.0,17 bhp,24000,223.0,Hero
+695,Hero Karizma R 223cc,2008,32000,first owner,delhi,40.0,17 bhp,16300,223.0,Hero
+696,Hero Glamour 125cc,2018,14000,first owner,gurgaon,50.0,6.72 KW (9.1 Ps),42000,125.0,Hero
+697,Hero Passion Pro 100cc,2009,45000,first owner,vadodara,5.0,8.2 Bhp,24304,100.0,Hero
+698,Honda CB Trigger 150cc,2014,30153,first owner,navi mumbai,60.0,14 bhp,37500,150.0,Honda
+699,Yamaha FZs 150cc,2013,47000,first owner,delhi,45.0,13 bhp,35000,150.0,Yamaha
+700,Bajaj V15 150cc,2016,7000,second owner,delhi,57.0,11.80 bhp,25500,150.0,Bajaj
+701,Bajaj Discover 135cc,2008,70000,first owner,lucknow,65.0,9.64 kw,17900,135.0,Bajaj
+702,Bajaj V12 125cc,2017,55000,first owner,gandhinagar,57.0,12bhp,40000,125.0,Bajaj
+703,Hero Splendor Pro Classic 100cc,2015,24000,second owner,chandigarh,55.0,8.10 bhp,30000,100.0,Hero
+704,Hero Honda Splendor Plus 100cc,2011,50000,first owner,kolkata,52.5,6.15kW (8.36 Ps),30000,100.0,Hero
+705,Hero Hunk 150cc,2013,45000,first owner,haridwar,53.0,14 bhp,35000,150.0,Hero
+706,TVS Star City 110cc,2013,30000,first owner,jaipur,85.0,8.2 bhp,24000,110.0,TVS
+707,Bajaj Avenger Street 150,2016,98000,second owner,jaipur,50.0,14.30 bhp,44000,150.0,Bajaj
+708,Bajaj Pulsar 180cc,2014,20000,first owner,jaipur,45.0,17 bhp,28000,180.0,Bajaj
+709,Hero Xtreme 150cc,2014,10000,first owner,bangalore,50.0,14.20 bhp,30000,150.0,Hero
+710,Hero Splendor iSmart 110cc,2016,24000,second owner,delhi,55.0,9.30 bhp,38000,110.0,Hero
+711,Bajaj Avenger Street 220,2015,65000,second owner,thane,53.0,19 bhp,45000,220.0,Bajaj
+712,Bajaj Pulsar 180cc,2009,28000,first owner,pune,65.0,15 bhp,18000,180.0,Bajaj
+713,Hero Hunk 150cc,2009,53000,first owner,delhi,53.0,14 bhp,22000,150.0,Hero
+714,Bajaj Pulsar 220cc,2012,36000,first owner,pune,38.0,21 bhp,35000,220.0,Bajaj
+715,Bajaj Pulsar 180cc,2013,50000,second owner,panipat,65.0,15 bhp,27000,180.0,Bajaj
+716,Royal Enfield Thunderbird 350cc,2003,67872,second owner,jaipur,30.0,19.80 bhp,39999,350.0,Royal Enfield
+717,Hero Super Splendor 125cc,2006,19000,first owner,delhi,75.0,9 bhp,16500,125.0,Hero
+718,Yamaha FZs 150cc,2014,40000,second owner,delhi,45.0,13 bhp,30000,150.0,Yamaha
+719,Hero Hunk 150cc,2014,35700,second owner,kheda,53.0,14 bhp,22000,150.0,Hero
+720,Hero Passion Plus 100cc,2008,31203,third owner,bangalore,55.0,7.5 Bhp,27500,100.0,Hero
+721,Hero Karizma ZMR 223cc,2011,47000,first owner,delhi,48.0,20 bhp,25000,223.0,Hero
+722,Hero HF Deluxe 100cc,2009,23711,first owner,jaipur,83.0,7.70 bhp,28000,100.0,Hero
+723,Hero CBZ Xtreme 150cc,2014,35000,first owner,ahmedabad,65.0,14.4PS,35000,150.0,Hero
+724,Hero Splendor Plus 100cc,2010,15000,first owner,ludhiana,81.0,8.20 bhp,22540,100.0,Hero
+725,Bajaj Pulsar 180cc,2014,21000,first owner,bangalore,45.0,17 bhp,42000,180.0,Bajaj
+726,Yamaha FZs 150cc,2015,26000,second owner,bangalore,45.0,13 bhp,49999,150.0,Yamaha
+727,Yamaha YBR 110cc,2014,42000,second owner,shimoga,55.0,7.60 bhp,17000,110.0,Yamaha
+728,Hero CD Deluxe 100cc,2011,28000,first owner,delhi,65.0,7.70 bhp,28000,100.0,Hero
+729,Yamaha FZs 150cc,2015,31000,first owner,kolkata,45.0,13 bhp,49900,150.0,Yamaha
+730,Hero HF Deluxe IBS Kick Spoke 100cc BS6,2020,5948,first owner,faridabad,50.0,7.91 bhp,44900,100.0,Hero
+731,Hero Splendor iSmart 110cc,2017,23000,first owner,jaipur,55.0,9.30 bhp,38000,110.0,Hero
+732,Bajaj V15 150cc,2017,26000,first owner,jaipur,57.0,11.80 bhp,37000,150.0,Bajaj
+733,Hero Passion Xpro 110cc,2012,80000,first owner,secunderabad,55.0,6.72 KW (9.1 Ps),25000,110.0,Hero
+734,Hero Karizma ZMR 223cc,2015,15000,second owner,ghaziabad,48.0,20 bhp,37389,223.0,Hero
+735,TVS Sport 100cc,2015,36000,first owner,mumbai,95.0,7.40 bhp,35000,100.0,TVS
+736,Bajaj Discover 125ST,2012,95500,first owner,rajkot,65.0,12.5 ps,25000,125.0,Bajaj
+737,Yamaha FZs 150cc,2013,16000,first owner,ahmedabad,45.0,13 bhp,42000,150.0,Yamaha
+738,Yamaha YZF-R15 150cc,2009,40000,third owner,ghaziabad,42.0,16 bhp,28000,150.0,Yamaha
+739,Bajaj Pulsar 180cc,2011,29000,first owner,delhi,65.0,15 bhp,27499,180.0,Bajaj
+740,Hero CD Deluxe 100cc,2016,18000,first owner,delhi,65.0,7.70 bhp,29000,100.0,Hero
+741,Bajaj Pulsar 220cc,2011,37000,first owner,vasai,38.0,21 bhp,27000,220.0,Bajaj
+742,Bajaj Pulsar 220cc,2011,37000,first owner,vasai,38.0,21 bhp,21796,220.0,Bajaj
+743,Bajaj Pulsar AS150,2015,19500,first owner,pune,53.0,16.80 bhp,42000,150.0,Bajaj
+744,Bajaj Pulsar AS150,2015,19500,first owner,pune,53.0,16.80 bhp,47000,150.0,Bajaj
+745,TVS Star City Plus 110cc,2015,13000,first owner,gurgaon,85.0,8.2 bhp,25000,110.0,TVS
+746,Hero HF Deluxe 100cc,2016,21511,first owner,gurgaon,83.0,7.70 bhp,34000,100.0,Hero
+747,Bajaj Pulsar 180cc,2014,25600,first owner,bihar shariff,45.0,17 bhp,48000,180.0,Bajaj
+748,Yamaha YZF-R15 2.0 150cc,2012,38000,first owner,hindupur,42.0,16.70 bhp,37575,150.0,Yamaha
+749,Hero Achiever 150cc,2017,14999,first owner,ludhiana,50.0,13 bhp,35000,150.0,Hero
+750,TVS Sport 100cc,2016,21023,first owner,gurgaon,95.0,7.40 bhp,26000,100.0,TVS
+751,Hero Passion Pro 100cc,2016,21000,first owner,vadodara,5.0,8.2 Bhp,38500,100.0,Hero
+752,Bajaj V15 150cc,2016,19845,first owner,bangalore,57.0,11.80 bhp,33172,150.0,Bajaj
+753,Bajaj Pulsar 220cc,2009,35000,first owner,pune,38.0,21 bhp,35000,220.0,Bajaj
+754,Yamaha SZ-RR 150cc,2016,45000,first owner,kendrapara,55.0,12 bhp,19425,150.0,Yamaha
+755,Bajaj Avenger 220cc,2012,45000,first owner,chennai,40.0,19 bhp,30000,220.0,Bajaj
+756,Bajaj V15 150cc,2017,48200,first owner,begusarai,57.0,11.80 bhp,45000,150.0,Bajaj
+757,Bajaj Pulsar 180cc,2011,44500,first owner,chennai,65.0,15 bhp,25000,180.0,Bajaj
+758,Hero HF Deluxe 100cc,2012,24500,first owner,jaipur,83.0,7.70 bhp,33000,100.0,Hero
+759,Hero Passion Pro 100cc Drum Alloy,2018,26000,first owner,jaipur,5.0,8.2 Bhp,45000,100.0,Hero
+760,Hero Glamour Disc 125cc,2017,20000,first owner,jaipur,55.0,8.90 bhp,38000,125.0,Hero
+761,Bajaj Pulsar 180cc,2010,58000,first owner,pune,65.0,15 bhp,23000,180.0,Bajaj
+762,Hero Passion Pro 100cc,2013,10000,first owner,bangalore,5.0,8.2 Bhp,35000,100.0,Hero
+763,Hero Splendor Plus Self Alloy 100cc,2018,12000,first owner,gurgaon,55.0,8.20 bhp,41000,100.0,Hero
+764,Bajaj Pulsar 135LS,2010,60000,first owner,delhi,64.0,13 bhp,18000,135.0,Bajaj
+765,Bajaj Pulsar 180cc,2009,48263,first owner,jaipur,65.0,15 bhp,25000,180.0,Bajaj
+766,Honda Dream Yuga 110cc,2015,24000,first owner,vadodara,84.0,8 bhp,35145,110.0,Honda
+767,Bajaj Discover 125cc Disc,2018,9946,first owner,gurgaon,65.0,10.90 bhp,24958,125.0,Bajaj
+768,Bajaj Pulsar 135LS,2012,51000,first owner,pune,64.0,13 bhp,26000,135.0,Bajaj
+769,Bajaj V12 125cc,2017,33360,first owner,delhi,57.0,12bhp,40000,125.0,Bajaj
+770,Hero Passion Plus 100cc,2009,17381,first owner,chandigarh,55.0,7.5 Bhp,25000,100.0,Hero
+771,Bajaj V12 125cc,2018,26000,first owner,sultanpur,57.0,12bhp,40000,125.0,Bajaj
+772,Bajaj Pulsar 220F,2011,70000,second owner,ahmedabad,38.0,21 bhp,25500,220.0,Bajaj
+773,Hero Passion PRO  100 cc,2003,22000,second owner,delhi,50.0,6.15 kW (8.36 Ps),16000,100.0,Hero
+774,Yamaha YZF-R15 150cc,2014,11000,first owner,kolar,42.0,16 bhp,40173,150.0,Yamaha
+775,Royal Enfield Thunderbird 350cc,2012,21000,first owner,faridabad,40.0,19.80 bhp,47000,350.0,Royal Enfield
+776,Bajaj Discover 135cc,2008,95000,first owner,noida,65.0,9.64 kw,18000,135.0,Bajaj
+777,Hero Karizma R 223cc,2009,56500,first owner,delhi,40.0,17 bhp,22000,223.0,Hero
+778,Hero Passion Plus 100cc,2011,51000,first owner,gautam buddha nagar,55.0,7.5 Bhp,20000,100.0,Hero
+779,TVS Sport 100cc,2016,36000,first owner,mandi,95.0,7.40 bhp,28000,100.0,TVS
+780,Hero Passion Plus 100cc,2008,43000,first owner,surat,55.0,7.5 Bhp,19000,100.0,Hero
+781,Honda CB Trigger 150cc,2014,24000,first owner,bangalore,60.0,14 bhp,49000,150.0,Honda
+782,Hero Passion Xpro 110cc,2013,26000,first owner,nanjangud,55.0,6.72 KW (9.1 Ps),30000,110.0,Hero
+783,Bajaj Pulsar AS150,2015,33000,first owner,yamuna nagar,53.0,16.80 bhp,34000,150.0,Bajaj
+784,Hero Passion Pro 100cc,2013,23000,first owner,delhi,5.0,8.2 Bhp,30000,100.0,Hero
+785,Hero Achiever Disc 150cc,2017,13400,first owner,rajahmundry,50.0,13 bhp,45000,150.0,Hero
+786,Bajaj Avenger 220cc,2015,23299,first owner,faridabad,40.0,19 bhp,38000,220.0,Bajaj
+787,Bajaj V15 150cc,2016,17619,first owner,thane,57.0,11.80 bhp,48000,150.0,Bajaj
+788,Bajaj Avenger 220cc,2012,80000,third owner,vadodara,40.0,19 bhp,32000,220.0,Bajaj
+789,Bajaj V15 150cc,2017,20000,first owner,vadodara,57.0,11.80 bhp,39400,150.0,Bajaj
+790,Hero Passion 100cc ,2003,22113,first owner,mughalsarai,55.0,7.5 Bhp,25000,100.0,Hero
+791,Bajaj Pulsar 180cc,2012,27391,first owner,delhi,45.0,17 bhp,18000,180.0,Bajaj
+792,Bajaj V15 150cc,2017,30000,first owner,bangalore,57.0,11.80 bhp,42000,150.0,Bajaj
+793,Bajaj V15 150cc,2016,40000,first owner,meerut,57.0,11.80 bhp,40000,150.0,Bajaj
+794,Bajaj Avenger Street 150,2016,48500,first owner,ghaziabad,50.0,14.30 bhp,42999,150.0,Bajaj
+795,Bajaj CT 100 ES Alloy,2018,13825,second owner,karnal,67.0,8.10 bhp,45000,100.0,Bajaj
+796,Hero Passion 100cc ,2001,39000,second owner,dharwad,55.0,7.5 Bhp,33100,100.0,Hero
+797,Suzuki Gixxer SF 150cc,2015,70000,first owner,jaipur,40.0,14.60 bhp,47000,150.0,Suzuki
+798,Hero Hunk 150cc,2010,42000,first owner,bijnor,53.0,14 bhp,42000,150.0,Hero
+799,Suzuki Gixxer 150cc,2014,30102,first owner,sirohi,63.0,14 bhp,45000,150.0,Suzuki
+800,Bajaj Discover 125ST,2012,28000,first owner,vasai,65.0,12.5 ps,22000,125.0,Bajaj
+801,Bajaj V15 150cc,2016,20000,first owner,gurdaspur,57.0,11.80 bhp,42000,150.0,Bajaj
+802,Hero Glamour PGM Fi 125cc,2012,46000,first owner,varanasi,50.0,6.72 KW (9.1 Ps),34000,125.0,Hero
+803,Bajaj Caliber 110cc,2003,200000,first owner,gwalior,67.0,7.8 PS,20000,110.0,Bajaj
+804,Yamaha Gladiator 125cc,2009,34000,second owner,chakan,64.0,10.8ps,25000,125.0,Yamaha
+805,Suzuki Gixxer 150cc,2014,53000,first owner,delhi,63.0,14 bhp,38300,150.0,Suzuki
+806,Bajaj Avenger 220cc,2014,23500,second owner,ahmedabad,40.0,19 bhp,40000,220.0,Bajaj
+807,Bajaj Pulsar 220F,2012,25000,first owner,bharatpur,38.0,21 bhp,35000,220.0,Bajaj
+808,Bajaj Pulsar 180cc,2011,27000,first owner,pune,65.0,15 bhp,45000,180.0,Bajaj
+809,Bajaj  Pulsar 180cc,2011,94000,first owner,delhi,45.0,17 bhp,20000,180.0,Bajaj
+810,Bajaj Avenger 220cc,2013,51280,second owner,ahmedabad,40.0,19 bhp,40500,220.0,Bajaj
+811,Bajaj Pulsar 220cc,2014,41000,second owner,ratangarh,38.0,21 bhp,39000,220.0,Bajaj
+812,Hero Passion Pro 100cc,2010,22000,first owner,agra,5.0,8.2 Bhp,23000,100.0,Hero
+813,Yamaha FZs 150cc,2014,53000,first owner,ahmedabad,45.0,13 bhp,35000,150.0,Yamaha
+814,Yamaha FZs 150cc,2013,59000,first owner,kalyan,45.0,13 bhp,37700,150.0,Yamaha
+815,Bajaj XCD 135,2009,37000,first owner,vadodara,60.0,9.4 Bhp,35000,135.0,Bajaj
+816,Bajaj Discover 125ST,2013,21000,first owner,jamnagar,65.0,12.5 ps,40000,125.0,Bajaj
+817,Yamaha YZF-R15 150cc,2010,30090,first owner,mumbai,42.0,16 bhp,42000,150.0,Yamaha
+818,Bajaj V15 150cc,2017,23000,first owner,delhi,57.0,11.80 bhp,48000,150.0,Bajaj
+819,Hero Hunk 150cc,2011,49000,second owner,vadodara,53.0,14 bhp,28000,150.0,Hero
+820,Bajaj Pulsar 135LS,2012,18000,second owner,delhi,64.0,13 bhp,22000,135.0,Bajaj
+821,Bajaj Avenger 220cc,2012,25978,first owner,gurgaon,40.0,19 bhp,32900,220.0,Bajaj
+822,Hero Karizma ZMR 223cc,2015,36950,first owner,pune,48.0,20 bhp,45000,223.0,Hero
+823,Bajaj Avenger 220cc,2013,34000,first owner,ahmedabad,40.0,19 bhp,38000,220.0,Bajaj
+824,Bajaj Pulsar 180cc,2010,10000,first owner,gurgaon,65.0,15 bhp,35000,180.0,Bajaj
+825,Hero Ignitor 125cc,2016,15000,first owner,udaipur,55.0,11 bhp,42000,125.0,Hero
+826,Hero Passion Pro 100cc,2013,18000,first owner,delhi,5.0,8.2 Bhp,24000,100.0,Hero
+827,TVS Star City Plus 110cc,2015,40700,first owner,mandi dabwali,85.0,8.2 bhp,21000,110.0,TVS
+828,Bajaj V15 150cc,2017,15071,first owner,ghaziabad,57.0,11.80 bhp,35000,150.0,Bajaj
+829,Bajaj Discover 125ST,2013,27140,first owner,bangalore,65.0,12.5 ps,32000,125.0,Bajaj
+830,Bajaj V15 150cc,2017,15000,first owner,rajkot,57.0,11.80 bhp,44000,150.0,Bajaj
+831,Yamaha FZs 150cc,2013,19500,second owner,delhi,45.0,13 bhp,39999,150.0,Yamaha
+832,Hero Splendor NXG 100cc,2008,25526,first owner,delhi,65.0,7 bhp,15600,100.0,Hero
+833,Hero Karizma ZMR 223cc,2011,48200,second owner,delhi,48.0,20 bhp,21500,223.0,Hero
+834,Hero HF Deluxe 100cc,2017,19000,first owner,delhi,55.0,6.15kW (8.36 Ps),36000,100.0,Hero
+835,Bajaj CT 100 ES Alloy,2019,11434,first owner,faridabad,67.0,8.10 bhp,35000,100.0,Bajaj
+836,Hero Karizma R 223cc,2009,20000,first owner,kanpur nagar,40.0,17 bhp,28000,223.0,Hero
+837,Yamaha FZs 150cc,2013,40000,first owner,bangalore,45.0,13 bhp,44000,150.0,Yamaha
+838,Yamaha FZs 150cc,2011,82898,first owner,udaipur,45.0,13 bhp,30000,150.0,Yamaha
+839,Bajaj Pulsar 135LS,2012,45000,first owner,haridwar,64.0,13 bhp,30000,135.0,Bajaj
+840,Bajaj Avenger 220cc,2011,20000,first owner,noida,40.0,19 bhp,32000,220.0,Bajaj
+841,Hero Splendor plus Kick Alloy 100cc,2018,4000,first owner,delhi,81.0,8.20 bhp,47040,100.0,Hero
+842,Hero Hunk 150cc,2014,28755,first owner,gurgaon,53.0,14 bhp,21000,150.0,Hero
+843,Bajaj Discover 125T,2014,21000,first owner,delhi,68.0,12.5 ps,28130,125.0,Bajaj
+844,Hero Passion Pro 100cc,2014,19000,first owner,ludhiana,5.0,8.2 Bhp,34000,100.0,Hero
+845,Bajaj CT 100 ES Alloy,2019,7329,first owner,gurgaon,67.0,8.10 bhp,37000,100.0,Bajaj
+846,Mahindra Centuro 110cc,2014,40900,first owner,patna,60.0,8.5 Bhp,29999,110.0,Mahindra
+847,Suzuki Gixxer 150cc,2016,34000,first owner,chennai,63.0,14 bhp,48000,150.0,Suzuki
+848,Hero Karizma R 223cc,2014,38000,first owner,hyderabad,40.0,17 bhp,40000,223.0,Hero
+849,Bajaj Avenger 220cc,2013,30000,first owner,lucknow,40.0,19 bhp,45000,220.0,Bajaj
+850,Honda CB Trigger 150cc,2014,52000,first owner,gurgaon,60.0,14 bhp,35000,150.0,Honda
+851,Bajaj Avenger 220cc,2012,39000,first owner,mumbai,40.0,19 bhp,30000,220.0,Bajaj
+852,Bajaj Avenger Street 150,2016,9430,first owner,faridabad,50.0,14.30 bhp,43000,150.0,Bajaj
+853,Bajaj Discover 125M,2014,20000,first owner,ahmedabad,65.0,12.5 ps,27000,125.0,Bajaj
+854,Hero Super Splendor 125cc,2005,29305,first owner,ahmedabad,75.0,9 bhp,20000,125.0,Hero
+855,Yamaha SZ RR V 2.0 150cc,2016,27900,first owner,faridabad,55.0,12 bhp,38700,150.0,Yamaha
+856,Yamaha YZF-R15 2.0 150cc,2011,33000,first owner,lucknow,42.0,16.70 bhp,46000,150.0,Yamaha
+857,Hero Splendor Plus Self Alloy 100cc IBS,2019,14028,first owner,delhi,55.0,8.20 bhp,41347,100.0,Hero
+858,Bajaj Avenger Street 150,2015,21000,first owner,navi mumbai,50.0,14.30 bhp,48000,150.0,Bajaj
+859,Hero Splendor Plus Self Alloy 100cc,2019,3121,first owner,delhi,55.0,8.20 bhp,48000,100.0,Hero
+860,Hero Glamour 125cc,2007,75000,first owner,bangalore,55.0,8.90 bhp,20999,125.0,Hero
+861,Bajaj Avenger 220cc,2011,45000,second owner,mumbai,40.0,19 bhp,28000,220.0,Bajaj
+862,Bajaj Avenger 220cc,2015,7606,first owner,bhiwani,40.0,19 bhp,47500,220.0,Bajaj
+863,Bajaj Avenger 220cc,2015,40000,first owner,mumbai,40.0,19 bhp,38000,220.0,Bajaj
+864,Hero Ignitor Disc 125cc,2013,25757,first owner,mysore,55.0,11 bhp,27500,125.0,Hero
+865,Bajaj Pulsar NS 200,2014,29324,first owner,faridabad,40.0,24.2 BHP,41000,200.0,Bajaj
+866,Bajaj Pulsar AS150,2015,25000,first owner,delhi,53.0,16.80 bhp,48000,150.0,Bajaj
+867,Hero Karizma ZMR 223cc,2010,28700,first owner,ambala,48.0,20 bhp,30000,223.0,Hero
+868,Suzuki Gixxer SF 150cc,2016,18000,second owner,chennai,40.0,14.60 bhp,45602,150.0,Suzuki
+869,Bajaj V15 150cc,2017,32400,first owner,kolkata,57.0,11.80 bhp,46500,150.0,Bajaj
+870,Hero CBZ Xtreme 150cc,2011,40300,second owner,vadodara,65.0,14.4PS,19000,150.0,Hero
+871,Bajaj Avenger Street 220,2016,58000,first owner,jaipur,53.0,19 bhp,42000,220.0,Bajaj
+872,Bajaj Pulsar 180cc,2010,44000,first owner,noida,65.0,15 bhp,25000,180.0,Bajaj
+873,Honda CB Trigger 150cc,2014,24000,second owner,24 pargana,60.0,14 bhp,36000,150.0,Honda
+874,Hero Passion Pro 100cc,2015,11800,first owner,ahmedabad,84.0,8.2 Bhp,33500,100.0,Hero
+875,Hero Karizma ZMR 223cc,2013,50000,first owner,delhi,48.0,20 bhp,33000,223.0,Hero
+876,Bajaj Pulsar 180cc,2010,60000,first owner,hyderabad,65.0,15 bhp,34000,180.0,Bajaj
+877,Hero Passion Pro 100cc,2011,34000,first owner,gurgaon,5.0,8.2 Bhp,22000,100.0,Hero
+878,Hero Splendor+ 100cc,2013,25000,first owner,bahadurpur,81.0,8.20 bhp,20000,100.0,Hero
+879,KTM RC 390cc,2017,1900,first owner,delhi,26.0,42.30 bhp,23000,390.0,KTM
+880,Bajaj V15 150cc,2016,9581,first owner,delhi,57.0,11.80 bhp,30000,150.0,Bajaj
+881,Bajaj V15 150cc,2017,27836,first owner,delhi,57.0,11.80 bhp,33000,150.0,Bajaj
+882,Hero Splendor plus 100cc,2017,10000,first owner,delhi,81.0,8.20 bhp,38000,100.0,Hero
+883,Hero Splendor Plus Kick Alloy 100cc,2017,22000,first owner,delhi,81.0,8.20 bhp,43500,100.0,Hero
+884,Royal Enfield Thunderbird 350cc,2009,54000,first owner,faridabad,35.0,19.80 bhp,35000,350.0,Royal Enfield
+885,Hero Splendor NXG 100cc,2011,50000,first owner,katni,65.0,7 bhp,19500,100.0,Hero
+886,Hero Passion Pro i3S Disc 100cc,2017,20050,first owner,delhi,84.0,8.20 bhp,41000,100.0,Hero
+887,Honda CBR 250R,2011,99762,second owner,mumbai,29.0,26.15 bhp,48000,250.0,Honda
+888,Bajaj Discover 125cc,2006,74404,first owner,delhi,65.0,12.5 ps,17000,125.0,Bajaj
+889,Hero Splendor Pro 100cc,2011,19808,first owner,faridabad,81.0,8.20 bhp,19000,100.0,Hero
+890,Hero Karizma R 223cc,2015,27176,second owner,hyderabad,40.0,17 bhp,32000,223.0,Hero
+891,Hero Xtreme 150cc,2013,42500,first owner,lucknow,50.0,14.20 bhp,35000,150.0,Hero
+892,Yamaha YZF-R15 150cc,2013,18166,first owner,delhi,42.0,16 bhp,44000,150.0,Yamaha
+893,Hero Passion Xpro 110cc,2016,5000,first owner,delhi,55.0,6.72 KW (9.1 Ps),48015,110.0,Hero
+894,Hero Xtreme Sports 150cc,2016,28200,first owner,hajipur,55.0,15.60 bhp,45000,150.0,Hero
+895,Yamaha FZs 150cc,2011,13580,first owner,delhi,45.0,13 bhp,23000,150.0,Yamaha
+896,Yamaha FZs 150cc,2014,65000,first owner,nadiad,45.0,13 bhp,31200,150.0,Yamaha
+897,Hero Super Splendor 125cc,2015,12580,first owner,delhi,75.0,9 bhp,27000,125.0,Hero
+898,Bajaj Discover 100T,2013,35000,first owner,siwan,56.0,8.51 PS,23000,100.0,Bajaj
+899,Bajaj CT 100 100cc,2018,20334,first owner,gurgaon,89.0,8.10 bhp,35000,100.0,Bajaj
+900,Bajaj CT 100 100cc,2018,16500,first owner,gurgaon,89.0,8.10 bhp,35000,100.0,Bajaj
+901,Bajaj CT 100 ES Alloy,2019,9000,first owner,gurgaon,67.0,8.10 bhp,38000,100.0,Bajaj
+902,Hero Super Splendor 125cc,2014,25000,first owner,delhi,75.0,9 bhp,35000,125.0,Hero
+903,Bajaj CT 100 100cc,2018,23221,first owner,gurgaon,89.0,8.10 bhp,35000,100.0,Bajaj
+904,Bajaj CT 100 100cc,2018,14949,first owner,gurgaon,89.0,8.10 bhp,35000,100.0,Bajaj
+905,Bajaj CT 100 ES Alloy,2018,24233,first owner,gurgaon,67.0,8.10 bhp,30000,100.0,Bajaj
+906,Mahindra Centuro 110cc,2016,8500,first owner,kolkata,60.0,8.4 bhp,35000,110.0,Mahindra
+907,Hero HF Deluxe Eco 100cc,2019,4544,first owner,faridabad,65.0,8.10 bhp,41000,100.0,Hero
+908,Bajaj Avenger Street 150,2015,29900,first owner,bangalore,50.0,14.30 bhp,41300,150.0,Bajaj
+909,Hero Achiever 150cc,2018,1999,first owner,bangalore,50.0,13 bhp,42000,150.0,Hero
+910,Bajaj Pulsar 180cc,2016,22000,second owner,delhi,65.0,17 bhp,48500,180.0,Bajaj
+911,Hero HF Deluxe i3s 100cc,2019,20000,first owner,kanpur,55.0,8.20 bhp,43500,100.0,Hero
+912,Royal Enfield‎ Bullet 350cc,1990,35000,second owner,mathura,37.0,19.80 bhp,45000,350.0,Royal Enfield
+913,Honda CBR 150R 150cc,2012,42000,first owner,indore,38.0,18.28 bhp,42000,150.0,Honda
+914,Bajaj Discover 125cc,2007,34163,first owner,bangalore,65.0,12.5 ps,25000,125.0,Bajaj
+915,Bajaj CT 100 100cc,2018,8250,first owner,noida,89.0,8.10 bhp,30000,100.0,Bajaj
+916,Bajaj  Pulsar 180cc,2011,620010,third owner,kolkata,45.0,17 bhp,28000,180.0,Bajaj
+917,Hero Passion Pro 100cc,2015,23000,first owner,ahmedabad,84.0,8.2 Bhp,34500,100.0,Hero
+918,Hero Passion Pro 100cc,2016,3000,first owner,tiruvallur,5.0,8.2 Bhp,35242,100.0,Hero
+919,Bajaj Pulsar 135LS,2012,4479,second owner,virar,64.0,13 bhp,20000,135.0,Bajaj
+920,Hero Passion Pro 100cc,2014,23430,first owner,jaipur,5.0,8.2 Bhp,35000,100.0,Hero
+921,TVS Star City Plus 110cc,2017,17000,first owner,gurgaon,85.0,8.2 bhp,31000,110.0,TVS
+922,Hero CD Deluxe 100cc,2012,84000,first owner,bhiwani,65.0,7.70 bhp,20000,100.0,Hero
+923,Bajaj V15 150cc,2016,9100,first owner,pune,57.0,11.80 bhp,48000,150.0,Bajaj
+924,TVS Star City Plus 110cc,2018,20000,first owner,bangalore,85.0,8.2 bhp,49999,110.0,TVS
+925,Yamaha FZs 150cc,2011,12900,first owner,bangalore,45.0,13 bhp,34100,150.0,Yamaha
+926,Hero Splendor Plus 100cc,2010,29000,first owner,gurgaon,81.0,8.20 bhp,23000,100.0,Hero
+927,Yamaha FZs 150cc,2014,23957,second owner,bangalore,45.0,13 bhp,47000,150.0,Yamaha
+928,Hero Splendor 100cc,2008,80000,first owner,durg,52.5,6.15kW (8.36 Ps),20000,100.0,Hero
+929,Bajaj V12 125cc Disc,2017,20400,first owner,rohtak,57.0,10.60 bhp,35740,125.0,Bajaj
+930,Hero Hunk 150cc,2017,69787,first owner,kolkata,53.0,14 bhp,36558,150.0,Hero
+931,Bajaj CT 100 ES Alloy,2019,5922,first owner,faridabad,67.0,8.10 bhp,31000,100.0,Bajaj
+932,Hero Passion Pro 100cc,2017,8000,first owner,tiruvallur,5.0,8.2 Bhp,37204,100.0,Hero
+933,Bajaj Discover 100cc,2005,26527,first owner,bangalore,72.0,8.51 PS,19000,100.0,Bajaj
+934,Hero Splendor Plus 100cc,2011,26886,first owner,gurgaon,81.0,8.20 bhp,17000,100.0,Hero
+935,Hero Honda Splendor 100cc,2011,70000,second owner,jodhpur,52.5,6.15kW (8.36 Ps),21000,100.0,Hero
+936,Hero Splendor NXG 100cc,2011,26000,first owner,bangalore,65.0,7 bhp,20000,100.0,Hero
+937,Bajaj Pulsar 180cc,2010,7000,first owner,jaipur,65.0,15 bhp,19600,180.0,Bajaj
+938,Suzuki Gixxer 150cc,2015,6500,first owner,virar,63.0,14 bhp,43800,150.0,Suzuki
+939,Bajaj V15 150cc,2016,10000,first owner,pune,57.0,11.80 bhp,49100,150.0,Bajaj
+940,Bajaj Discover 125ST,2013,38425,first owner,delhi,65.0,12.5 ps,25000,125.0,Bajaj
+941,Hero Passion Pro 100cc,2014,35600,first owner,delhi,5.0,8.2 Bhp,31500,100.0,Hero
+942,Yamaha FZs 150cc,2015,50000,first owner,arrah,45.0,13 bhp,30000,150.0,Yamaha
+943,Hero Passion Pro 100cc,2016,6500,first owner,thane,5.0,8.2 Bhp,42000,100.0,Hero
+944,Bajaj  Pulsar 180cc,2013,20000,first owner,delhi,45.0,17 bhp,32000,180.0,Bajaj
+945,Hero Passion Plus 100cc,2004,60000,first owner,tiruvallur,55.0,7.5 Bhp,18000,100.0,Hero
+946,Yamaha SZ-RR 150cc,2016,12000,first owner,vadodara,55.0,12 bhp,44000,150.0,Yamaha
+947,Bajaj Pulsar 135LS,2013,46316,second owner,jodhpur,64.0,13 bhp,27000,135.0,Bajaj
+948,Bajaj Discover 125ST,2013,65000,second owner,dankaur,65.0,12.5 ps,28000,125.0,Bajaj
+949,Hero Super Splendor 125cc,2010,38385,first owner,surat,75.0,9 bhp,30000,125.0,Hero
+950,Bajaj V15 150cc,2017,8564,first owner,delhi,57.0,11.80 bhp,45000,150.0,Bajaj
+951,Hero Karizma R 223cc,2008,27000,second owner,24 pargana,40.0,17 bhp,28000,223.0,Hero
+952,Bajaj Discover 125cc,2012,28961,second owner,nadiad,65.0,12.5 ps,20000,125.0,Bajaj
+953,Hero CBZ Xtreme 150cc,2012,110586,first owner,tiruvannamalai,65.0,14.4PS,17400,150.0,Hero
+954,Bajaj Avenger 220cc,2014,39000,first owner,faridabad,40.0,19 bhp,40000,220.0,Bajaj
+955,Bajaj Discover 135cc,2008,90000,first owner,mumbai,65.0,9.64 kw,28000,135.0,Bajaj
+956,Yamaha Gladiator 125cc,2009,22000,first owner,bhopal,64.0,10.8ps,18000,125.0,Yamaha
+957,Bajaj Avenger 220cc,2014,64000,first owner,ahmedabad,40.0,19 bhp,40000,220.0,Bajaj
+958,Hero Glamour 125cc,2014,35000,first owner,bhubaneshwar,55.0,8.90 bhp,41000,125.0,Hero
+959,Bajaj Avenger Street 150,2016,60055,first owner,pune,50.0,14.30 bhp,34918,150.0,Bajaj
+960,Hero Passion Plus 100cc,2009,43000,first owner,indore,55.0,7.5 Bhp,25000,100.0,Hero
+961,Hero CBZ Xtreme 150cc,2013,60000,first owner,medinipur,65.0,14.4PS,45000,150.0,Hero
+962,TVS Star Sport 100cc,2016,50000,first owner,vasai,95.0,7.40 bhp,36000,100.0,TVS
+963,Hero Karizma R 223cc,2015,10900,first owner,delhi,40.0,17 bhp,45000,223.0,Hero
+964,Bajaj Pulsar 180cc,2010,70000,first owner,ahmedabad,65.0,15 bhp,17000,180.0,Bajaj
+965,Hero Passion Pro 100cc,2013,20000,first owner,mulbagal,5.0,8.2 Bhp,33000,100.0,Hero
+966,Bajaj Pulsar AS150,2016,12000,first owner,moradabad,53.0,16.80 bhp,38900,150.0,Bajaj
+967,Bajaj Pulsar 180cc,2012,51000,first owner,moga,45.0,17 bhp,35000,180.0,Bajaj
+968,Bajaj Avenger Street 220,2016,18600,first owner,meerut,53.0,19 bhp,48000,220.0,Bajaj
+969,Bajaj Avenger 220cc,2013,37000,first owner,bangalore,40.0,19 bhp,45000,220.0,Bajaj
+970,Hero Passion Plus 100cc,2008,39000,third owner,ahmedabad,55.0,7.5 Bhp,20000,100.0,Hero
+971,Bajaj Discover 125cc,2010,90000,first owner,sonbhadra,65.0,12.5 ps,30000,125.0,Bajaj
+972,Bajaj Pulsar 180cc,2013,34000,first owner,halol,65.0,15 bhp,35000,180.0,Bajaj
+973,Bajaj Pulsar 135LS,2015,20000,first owner,nawanshahr,64.0,13 bhp,45000,135.0,Bajaj
+974,Bajaj Pulsar 220cc,2013,37000,second owner,bangalore,38.0,21 bhp,38000,220.0,Bajaj
+975,Bajaj Pulsar 220F,2010,14800,first owner,margao,38.0,21 bhp,30000,220.0,Bajaj
+976,Yamaha FZs 150cc,2011,50000,first owner,pune,45.0,13 bhp,43500,150.0,Yamaha
+977,Hero Karizma ZMR 223cc,2015,24000,second owner,dehradun,48.0,20 bhp,40000,223.0,Hero
+978,Bajaj Pulsar 180cc,2011,70000,first owner,gurgaon,65.0,15 bhp,32500,180.0,Bajaj
+979,Hero Splendor iSmart 110cc,2016,13000,third owner,delhi,55.0,9.30 bhp,38500,110.0,Hero
+980,Bajaj Pulsar 220cc,2009,30000,first owner,agra,38.0,21 bhp,27000,220.0,Bajaj
+981,Bajaj V15 150cc,2016,18700,first owner,nalgonda,57.0,11.80 bhp,42000,150.0,Bajaj
+982,Hero Karizma ZMR 223cc,2012,13000,first owner,delhi,48.0,20 bhp,30000,223.0,Hero
+983,Suzuki Gixxer 150cc,2015,9800,first owner,delhi,63.0,14 bhp,48000,150.0,Suzuki
+984,Bajaj CT 100 100cc,2018,15000,first owner,delhi,89.0,8.10 bhp,41500,100.0,Bajaj
+985,Honda CB Trigger 150cc,2014,35000,first owner,gurgaon,60.0,14 bhp,27000,150.0,Honda
+986,Bajaj V15 150cc,2016,35467,first owner,gurgaon,57.0,11.80 bhp,33000,150.0,Bajaj
+987,Honda CB Trigger 150cc,2014,30000,first owner,delhi,60.0,14 bhp,36000,150.0,Honda
+988,Bajaj Discover 125M,2015,12000,first owner,delhi,65.0,12.5 ps,35000,125.0,Bajaj
+989,Hero Passion Pro 100cc,2014,25853,first owner,jaipur,5.0,8.2 Bhp,34000,100.0,Hero
+990,Hero Passion Pro i3S Alloy 100cc,2018,28975,first owner,jaipur,84.0,8.20 bhp,48000,100.0,Hero
+991,Bajaj Avenger 220cc,2014,10000,second owner,hyderabad,40.0,19 bhp,48000,220.0,Bajaj
+992,Yamaha FZs 150cc,2014,11000,first owner,delhi,45.0,13 bhp,47040,150.0,Yamaha
+993,Hero Passion Pro 100cc,2009,12000,first owner,delhi,5.0,8.2 Bhp,19600,100.0,Hero
+994,Bajaj V15 150cc,2016,35466,first owner,gurgaon,57.0,11.80 bhp,32000,150.0,Bajaj
+995,Hero Super Splendor 125cc,2011,28547,first owner,faridabad,75.0,9 bhp,18000,125.0,Hero
+996,Hero Hunk 150cc,2011,31214,first owner,gurgaon,53.0,14 bhp,17000,150.0,Hero
+997,Bajaj V15 150cc,2016,23492,first owner,gurgaon,57.0,11.80 bhp,32000,150.0,Bajaj
+998,Hero Splendor iSmart 100cc,2016,6000,first owner,jaipur,55.0,8.20 bhp,36000,100.0,Hero
+999,Hero Splendor 100cc,2004,61122,first owner,ahmedabad,52.5,6.15kW (8.36 Ps),23000,100.0,Hero
+1000,Bajaj Discover 125M,2015,40000,first owner,bangalore,65.0,12.5 ps,37500,125.0,Bajaj
+1001,Bajaj Discover 125cc,2013,43500,first owner,kottayam,65.0,12.5 ps,23500,125.0,Bajaj
+1002,Bajaj V15 150cc,2016,6726,first owner,delhi,57.0,11.80 bhp,48750,150.0,Bajaj
+1003,Hero Passion Pro 100cc,2013,20757,first owner,faridabad,5.0,8.2 Bhp,20800,100.0,Hero
+1004,Bajaj Discover 125cc,2013,16181,first owner,faridabad,65.0,12.5 ps,16500,125.0,Bajaj
+1005,Hero Passion Pro TR 100cc,2017,89999,first owner,tiruvallur,84.0,7.70 bhp,26365,100.0,Hero
+1006,Hero Splendor Pro 100cc,2011,16428,first owner,bangalore,81.0,8.20 bhp,33000,100.0,Hero
+1007,Hero Passion Pro 100cc,2012,12000,first owner,ludhiana,5.0,8.2 Bhp,27500,100.0,Hero
+1008,Hero Hunk 150cc,2015,41734,first owner,gurgaon,53.0,14 bhp,26000,150.0,Hero
+1009,Bajaj Pulsar 180cc,2012,40000,second owner,islampur,45.0,17 bhp,25800,180.0,Bajaj
+1010,Suzuki Gixxer 150cc,2016,20082,first owner,jaipur,63.0,14 bhp,42000,150.0,Suzuki
+1011,Bajaj Pulsar 220cc,2014,40000,first owner,mumbai,38.0,21 bhp,46700,220.0,Bajaj
+1012,Hero HF Deluxe self Alloy 100cc,2018,22000,first owner,gurgaon,55.0,6.15kW (8.36 Ps),45000,100.0,Hero
+1013,Bajaj V15 150cc,2017,19346,first owner,gurgaon,57.0,11.80 bhp,26000,150.0,Bajaj
+1014,Hero HF Deluxe i3s 100cc,2018,8300,first owner,mumbai,55.0,8.20 bhp,45000,100.0,Hero
+1015,Honda CB Trigger 150cc,2014,28000,first owner,gurgaon,60.0,14 bhp,37000,150.0,Honda
+1016,Bajaj Avenger Street 150,2016,30000,first owner,vadodara,50.0,14.30 bhp,42000,150.0,Bajaj
+1017,Royal Enfield Bullet 350cc,2007,52904,first owner,gurgaon,37.0,19.80 bhp,48000,350.0,Royal Enfield
+1018,Bajaj V15 150cc,2017,52000,first owner,kolkata,57.0,11.80 bhp,38000,150.0,Bajaj
+1019,Hero Karizma R 223cc,2013,35000,first owner,indore,40.0,17 bhp,45000,223.0,Hero
+1020,Yamaha Gladiator 125cc,2009,32539,first owner,chennai,64.0,10.8ps,17000,125.0,Yamaha
+1021,Suzuki Hayate 110cc,2014,35112,first owner,delhi,69.0,8.3 bhp,20000,110.0,Suzuki
+1022,Hero CBZ Xtreme 150cc,2013,40000,first owner,hyderabad,65.0,14.4PS,42000,150.0,Hero
+1023,Suzuki Gixxer 150cc,2016,45000,second owner,chennai,63.0,14 bhp,40000,150.0,Suzuki
+1024,Bajaj Avenger Street 150,2015,53000,first owner,thane,50.0,14.30 bhp,47000,150.0,Bajaj
+1025,Hero CBZ Xtreme 150cc,2010,35800,second owner,surat,65.0,14.4PS,16500,150.0,Hero
+1026,Hero Splendor iSmart 110cc,2016,20290,first owner,delhi,55.0,9.30 bhp,40000,110.0,Hero
+1027,Hero CBZ Xtreme 150cc,2007,47000,first owner,bangalore,65.0,14.4PS,27000,150.0,Hero
+1028,Hero Ignitor 125cc,2014,40000,second owner,chennai,55.0,11 bhp,22500,125.0,Hero
+1029,Hero CBZ Xtreme 150cc,2013,50000,first owner,pune,65.0,14.4PS,31000,150.0,Hero
+1030,Hero CBZ 150cc,2011,42500,first owner,hyderabad,65.0,12.8ps,35000,150.0,Hero
+1031,Hero Splendor 100cc,2011,32659,first owner,ahmedabad,52.5,6.15kW (8.36 Ps),26950,100.0,Hero
+1032,Hero Honda Splendor Plus 100cc,2011,55000,first owner,hyderabad,52.5,6.15kW (8.36 Ps),36150,100.0,Hero
+1033,Hero Splendor 100cc,2011,22365,first owner,ahmedabad,52.5,6.15kW (8.36 Ps),26950,100.0,Hero
+1034,Bajaj Avenger 220cc,2015,25000,first owner,chennai,40.0,19 bhp,41600,220.0,Bajaj
+1035,TVS Sport 100cc,2015,22000,first owner,gurgaon,95.0,7.40 bhp,24500,100.0,TVS
+1036,Bajaj Discover 125ST,2012,15000,first owner,kalyan,65.0,12.5 ps,28000,125.0,Bajaj
+1037,Bajaj Pulsar 180cc,2014,20000,first owner,chandigarh,45.0,17 bhp,35000,180.0,Bajaj
+1038,Bajaj Avenger 220cc,2013,24000,first owner,mumbai,40.0,19 bhp,33200,220.0,Bajaj
+1039,Bajaj Pulsar 135LS,2015,30000,first owner,delhi,64.0,13 bhp,30000,135.0,Bajaj
+1040,Bajaj Pulsar 220cc,2015,32057,first owner,mumbai,38.0,21 bhp,40000,220.0,Bajaj
+1041,Mahindra Centuro 110cc,2014,70000,second owner,pune,60.0,8.5 Bhp,23000,110.0,Mahindra
+1042,Hero CBZ Xtreme 150cc,2010,56712,first owner,bangalore,65.0,14.4PS,20000,150.0,Hero
+1043,Bajaj Pulsar AS150,2015,28886,first owner,pune,53.0,16.80 bhp,40000,150.0,Bajaj
+1044,Hero CBZ Xtreme 150cc,2011,13421,third owner,delhi,65.0,14.4PS,25000,150.0,Hero
+1045,Bajaj XCD 125,2008,14321,first owner,delhi,60.0,9.4 Bhp,17000,125.0,Bajaj
+1046,TVS Star City Plus 110cc,2016,16000,first owner,gurgaon,85.0,8.2 bhp,26000,110.0,TVS
+1047,Hero HF Deluxe 100cc,2017,296,first owner,delhi,55.0,6.15kW (8.36 Ps),40000,100.0,Hero
+1048,Hero Passion Pro 100cc,2010,17420,first owner,faridabad,5.0,8.2 Bhp,16500,100.0,Hero
+1049,Bajaj Discover 125ST,2012,17010,first owner,kanpur nagar,65.0,12.5 ps,25000,125.0,Bajaj
+1050,TVS Sport 100cc,2014,75000,first owner,muzaffarpur,95.0,7.40 bhp,20000,100.0,TVS
+1051,Yamaha FZs 150cc,2011,33000,second owner,delhi,45.0,13 bhp,22000,150.0,Yamaha
+1052,Hero Karizma ZMR 223cc,2012,1922,first owner,mumbai,48.0,20 bhp,30000,223.0,Hero
+1053,Hero Splendor Plus 100cc,2010,35778,first owner,faridabad,81.0,8.20 bhp,18000,100.0,Hero
+1054,Bajaj Pulsar 220cc,2016,15000,second owner,delhi,38.0,21 bhp,49500,220.0,Bajaj
+1055,Bajaj Avenger Street 150,2016,33500,first owner,mumbai,50.0,14.30 bhp,48000,150.0,Bajaj
+1056,TVS Sport 100cc,2015,10649,first owner,faridabad,95.0,7.40 bhp,20000,100.0,TVS
+1057,Bajaj Avenger Street 220,2016,40000,first owner,noida,53.0,19 bhp,47100,220.0,Bajaj
+1058,Hero CD Deluxe 100cc,2017,25000,first owner,gurgaon,65.0,7.70 bhp,18000,100.0,Hero
+1059,Hero Karizma R 223cc,2008,43509,first owner,delhi,40.0,17 bhp,20000,223.0,Hero
+1060,Hero Karizma R 223cc,2010,60000,third owner,ahmedabad,40.0,17 bhp,30000,223.0,Hero
+1061,Hero Karizma R 223cc,2007,50000,first owner,delhi,40.0,17 bhp,16400,223.0,Hero
+1062,Bajaj Avenger 220cc,2012,27000,first owner,bangalore,40.0,19 bhp,45000,220.0,Bajaj
+1063,Bajaj Pulsar 220cc,2010,34304,first owner,faridabad,38.0,21 bhp,20000,220.0,Bajaj
+1064,Bajaj V15 150cc,2018,15047,first owner,gurgaon,57.0,11.80 bhp,35500,150.0,Bajaj
+1065,Bajaj V15 150cc,2016,12315,first owner,faridabad,57.0,11.80 bhp,31000,150.0,Bajaj
+1066,TVS Star City Plus 110cc,2017,46823,first owner,bangalore,85.0,8.2 bhp,37000,110.0,TVS
+1067,Yamaha FZs 150cc,2014,38554,first owner,gurgaon,45.0,13 bhp,25000,150.0,Yamaha
+1068,Bajaj Pulsar 180cc,2015,48000,first owner,bangalore,45.0,17 bhp,36000,180.0,Bajaj
+1069,Bajaj Avenger 220cc,2014,32000,first owner,ahmedabad,40.0,19 bhp,26333,220.0,Bajaj
+1070,Bajaj Avenger 220cc,2015,37500,first owner,pune,40.0,19 bhp,45000,220.0,Bajaj
+1071,Yamaha YZF-R15 2.0 150cc,2013,63371,first owner,bangalore,42.0,16.70 bhp,48000,150.0,Yamaha
+1072,Yamaha FZs 150cc,2012,61200,second owner,zirakpur,45.0,13 bhp,31400,150.0,Yamaha
+1073,Yamaha FZs 150cc,2012,37000,first owner,24 pargana,45.0,13 bhp,37000,150.0,Yamaha
+1074,Yamaha FZs 150cc,2012,58000,third owner,bangalore,45.0,13 bhp,30000,150.0,Yamaha
+1075,Bajaj Pulsar 180cc,2016,31000,first owner,gurgaon,65.0,17 bhp,39000,180.0,Bajaj
+1076,Bajaj V15 150cc,2018,15510,first owner,faridabad,57.0,11.80 bhp,33000,150.0,Bajaj
+1077,Hero Karizma R 223cc,2012,25000,first owner,visakhapatnam,40.0,17 bhp,40000,223.0,Hero
+1078,Hero Passion Pro 100cc,2013,21000,first owner,bangalore,5.0,8.2 Bhp,42000,100.0,Hero
+1079,Hero Splendor Plus 100cc,2017,55000,first owner,mysore,81.0,8.20 bhp,45000,100.0,Hero
+1080,Bajaj Discover 125cc,2012,26356,second owner,bangalore,65.0,12.5 ps,28000,125.0,Bajaj
+1081,Hero Splendor 100cc,2008,31000,first owner,chennai,52.5,6.15kW (8.36 Ps),17000,100.0,Hero
+1082,Hero Splendor Plus 100cc,2014,12500,first owner,sonepat,81.0,8.20 bhp,25800,100.0,Hero
+1083,Bajaj Pulsar 180cc,2018,65000,fourth owner or more,bangalore,65.0,17 bhp,26800,180.0,Bajaj
+1084,Hero Splendor Pro 100cc,2015,11000,first owner,ludhiana,81.0,8.20 bhp,40000,100.0,Hero
+1085,Bajaj Pulsar 180cc,2012,20000,first owner,delhi,45.0,17 bhp,26900,180.0,Bajaj
+1086,Bajaj Pulsar AS150,2015,31000,second owner,bangalore,53.0,16.80 bhp,42000,150.0,Bajaj
+1087,Hero Splendor 100cc,2007,70000,first owner,hosur,52.5,6.15kW (8.36 Ps),17000,100.0,Hero
+1088,Bajaj XCD 125,2009,25000,first owner,delhi,60.0,9.4 Bhp,16000,125.0,Bajaj
+1089,Hero Passion Pro 100cc,2015,16754,first owner,faridabad,84.0,8.2 Bhp,24700,100.0,Hero
+1090,Hero Hunk 150cc,2013,12500,first owner,bangalore,53.0,14 bhp,30000,150.0,Hero
+1091,TVS Sport 100cc,2013,14736,first owner,faridabad,95.0,7.40 bhp,17500,100.0,TVS
+1092,Bajaj Pulsar 200 NS 200cc,2014,57000,first owner,ahmedabad,40.0,24.2 BHP,42200,200.0,Bajaj
+1093,Bajaj Pulsar 135LS,2010,20000,first owner,jamshedpur,64.0,13 bhp,20000,135.0,Bajaj
+1094,Bajaj Pulsar 220cc,2016,31651,first owner,faridabad,38.0,21 bhp,41000,220.0,Bajaj
+1095,Hero Passion Pro 100cc,2009,34000,second owner,kolkata,5.0,8.2 Bhp,20000,100.0,Hero
+1096,Hero Ignitor 125cc,2012,32000,first owner,delhi,55.0,11 bhp,25000,125.0,Hero
+1097,Bajaj Pulsar 220cc,2013,24500,second owner,delhi,38.0,21 bhp,45000,220.0,Bajaj
+1098,Hero Hunk 150cc,2009,16000,first owner,delhi,53.0,14 bhp,22000,150.0,Hero
+1099,Bajaj  Pulsar 180cc,2011,55000,first owner,gurgaon,45.0,17 bhp,26000,180.0,Bajaj
+1100,Bajaj V15 150cc,2016,17800,first owner,bangalore,57.0,11.80 bhp,47500,150.0,Bajaj
+1101,Bajaj V15 150cc,2016,23000,first owner,muvattupuzha,57.0,11.80 bhp,46000,150.0,Bajaj
+1102,Bajaj Pulsar 135LS,2014,10000,first owner,gurgaon,64.0,13 bhp,40000,135.0,Bajaj
+1103,Hero Ignitor 125cc,2014,36000,first owner,ghaziabad,55.0,11 bhp,26900,125.0,Hero
+1104,Honda Dream Yuga 110cc,2015,18988,first owner,kolhapur,84.0,8 bhp,44000,110.0,Honda
+1105,Yamaha FZs 150cc,2015,25000,first owner,mumbai,45.0,13 bhp,49940,150.0,Yamaha
+1106,Bajaj Pulsar 180cc,2013,31500,first owner,pune,65.0,15 bhp,42000,180.0,Bajaj
+1107,Bajaj Discover 125cc,2016,15000,first owner,pratapgarh,65.0,12.5 ps,37800,125.0,Bajaj
+1108,Bajaj Avenger 220cc,2014,22000,third owner,bareilly,40.0,19 bhp,34500,220.0,Bajaj
+1109,Hero Passion PRO  100 cc,2013,6000,first owner,ludhiana,50.0,6.15 kW (8.36 Ps),30000,100.0,Hero
+1110,Bajaj Discover 125ST,2012,40200,first owner,varanasi,65.0,12.5 ps,20000,125.0,Bajaj
+1111,Bajaj Discover 125ST,2013,17000,second owner,faridabad,65.0,12.5 ps,24000,125.0,Bajaj
+1112,Hero Splendor 100cc,2004,55000,first owner,muzaffarpur,52.5,6.15kW (8.36 Ps),19000,100.0,Hero
+1113,Hero Passion Plus 100cc,2008,42662,first owner,jaipur,55.0,7.5 Bhp,16000,100.0,Hero
+1114,Bajaj V15 150cc,2016,22139,first owner,delhi,57.0,11.80 bhp,48000,150.0,Bajaj
+1115,Bajaj Pulsar 180cc,2009,77000,first owner,delhi,65.0,15 bhp,18000,180.0,Bajaj
+1116,Hero Karizma R 223cc,2015,12000,first owner,gaya,40.0,17 bhp,44100,223.0,Hero
+1117,Bajaj Discover 125ST,2013,31000,first owner,faridabad,65.0,12.5 ps,26900,125.0,Bajaj
+1118,Bajaj Discover 125M,2015,16000,first owner,delhi,65.0,12.5 ps,32500,125.0,Bajaj
+1119,Honda CB Trigger 150cc,2014,33000,first owner,ahmedabad,60.0,14 bhp,35000,150.0,Honda
+1120,Bajaj Pulsar 180cc,2014,65000,first owner,hisar,45.0,17 bhp,25000,180.0,Bajaj
+1121,Bajaj Discover 125ST,2012,55000,first owner,faridabad,65.0,12.5 ps,20000,125.0,Bajaj
+1122,Hero CD Deluxe 100cc,2012,50000,first owner,delhi,65.0,7.70 bhp,20000,100.0,Hero
+1123,Honda CBR 250R,2011,29000,first owner,gurgaon,29.0,26.15 bhp,45000,250.0,Honda
+1124,Hero Passion Pro i3S Disc 100cc,2017,22600,second owner,bhatkal,84.0,8.20 bhp,38000,100.0,Hero
+1125,Bajaj Avenger 220cc,2013,40000,first owner,delhi,40.0,19 bhp,27000,220.0,Bajaj
+1126,Bajaj V15 150cc,2016,3325,second owner,ghaziabad,57.0,11.80 bhp,42200,150.0,Bajaj
+1127,Bajaj Pulsar 180cc,2009,32000,first owner,delhi,65.0,15 bhp,18900,180.0,Bajaj
+1128,Bajaj Pulsar 220F,2012,35000,first owner,sonipat,38.0,21 bhp,22000,220.0,Bajaj
+1129,Hero Hunk Rear Disc 150cc,2013,45000,first owner,mumbai,55.0,14 bhp,30000,150.0,Hero
+1130,Bajaj CT 100 100cc,2001,60000,second owner,manpur,89.0,8.10 bhp,16000,100.0,Bajaj
+1131,TVS Star City 110cc,2012,47453,first owner,ganganagar,85.0,8.2 bhp,18000,110.0,TVS
+1132,Hero Splendor Pro 100cc,2014,23000,first owner,asansol,81.0,8.20 bhp,35000,100.0,Hero
+1133,Hero Splendor 100cc,2015,15500,first owner,hyderabad,52.5,6.15kW (8.36 Ps),44000,100.0,Hero
+1134,TVS Sport 100cc,2017,35535,first owner,kurukshetra,95.0,7.40 bhp,36000,100.0,TVS
+1135,Suzuki Slingshot Plus 125cc,2015,15000,second owner,ajmer,59.0,8.50 bhp,28000,125.0,Suzuki
+1136,TVS Star City Plus 110cc,2015,35300,first owner,delhi,85.0,8.2 bhp,27606,110.0,TVS
+1137,Bajaj Discover 125cc Disc,2018,10000,first owner,delhi,65.0,10.90 bhp,45000,125.0,Bajaj
+1138,Bajaj V15 150cc,2018,11000,first owner,delhi,57.0,11.80 bhp,45000,150.0,Bajaj
+1139,Hero Passion Pro 100cc,2010,77000,second owner,jind,5.0,8.2 Bhp,16666,100.0,Hero
+1140,Hero Splendor iSmart 110cc,2017,12000,first owner,faridabad,55.0,9.30 bhp,39200,110.0,Hero
+1141,Yamaha SZ-RR 150cc,2015,25909,first owner,faridabad,55.0,12 Bhp,25000,150.0,Yamaha
+1142,Bajaj Pulsar AS150,2016,35000,second owner,patna,53.0,16.80 bhp,35000,150.0,Bajaj
+1143,Bajaj V15 150cc,2016,24925,first owner,bangalore,57.0,11.80 bhp,43400,150.0,Bajaj
+1144,Hero Splendor 100cc,2016,32000,first owner,raebareli,52.5,6.15kW (8.36 Ps),27500,100.0,Hero
+1145,Bajaj Discover 125ST,2013,30000,first owner,swaimadhopur,65.0,12.5 ps,23000,125.0,Bajaj
+1146,Mahindra Centuro 110cc,2014,42936,first owner,bangalore,60.0,8.5 Bhp,22000,110.0,Mahindra
+1147,Hero Super Splendor 125cc,2008,74184,second owner,chandigarh,75.0,9 bhp,17000,125.0,Hero
+1148,Honda CB Trigger 150cc,2014,34407,first owner,mumbai,60.0,14 bhp,42000,150.0,Honda
+1149,Hero Passion Xpro 110cc,2015,40000,first owner,ambala,55.0,6.72 KW (9.1 Ps),26000,110.0,Hero
+1150,Bajaj Avenger Street 150,2015,16500,first owner,chennai,50.0,14.30 bhp,48900,150.0,Bajaj
+1151,Hero Passion Pro 100cc,2011,27003,first owner,mumbai,5.0,8.2 Bhp,19900,100.0,Hero
+1152,Hero Karizma R 223cc,2009,17299,first owner,delhi,40.0,17 bhp,16979,223.0,Hero
+1153,Hero Splendor Plus 100cc,2010,42000,second owner,tekanpur,81.0,8.20 bhp,18000,100.0,Hero
+1154,Suzuki GS 150 R 150cc,2012,99000,first owner,tiruverkadu,56.0,13.8 bhp,20000,150.0,Suzuki
+1155,Bajaj Discover 125ST,2013,25000,first owner,ahmedabad,65.0,12.5 ps,22000,125.0,Bajaj
+1156,Hero HF Deluxe Kick Alloy 100cc,2018,24611,first owner,gurgaon,55.0,6.15kW (8.36 Ps),30000,100.0,Hero
+1157,Bajaj Discover 125cc,2011,72000,first owner,ahmedabad,65.0,12.5 ps,18800,125.0,Bajaj
+1158,Suzuki GS 150 R 150cc,2011,80500,first owner,noida,56.0,13.8 bhp,18000,150.0,Suzuki
+1159,Bajaj V15 150cc,2016,15440,first owner,chennai,57.0,11.80 bhp,34000,150.0,Bajaj
+1160,Bajaj Discover 125cc,2013,20000,second owner,palwal,65.0,12.5 ps,17000,125.0,Bajaj
+1161,Bajaj Pulsar AS150,2017,3629,first owner,mumbai,53.0,16.80 bhp,45000,150.0,Bajaj
+1162,Bajaj Pulsar 220F,2014,28989,first owner,chennai,38.0,21 bhp,40300,220.0,Bajaj
+1163,Yamaha YZF-R15 150cc,2009,27000,first owner,delhi,42.0,16 bhp,30000,150.0,Yamaha
+1164,Bajaj Avenger 220cc,2014,60000,first owner,kanchipuram,40.0,19 bhp,35000,220.0,Bajaj
+1165,Hero Xtreme Sports 150cc,2017,26008,first owner,delhi,55.0,15.60 bhp,48500,150.0,Hero
+1166,Bajaj Avenger 220cc,2012,10000,third owner,delhi,40.0,19 bhp,29500,220.0,Bajaj
+1167,Bajaj Pulsar 180cc,2010,50000,third owner,ahmedabad,65.0,15 bhp,18000,180.0,Bajaj
+1168,Hero Splendor NXG 100cc,2011,86000,first owner,delhi,65.0,7 bhp,16000,100.0,Hero
+1169,Hero Splendor iSmart 110cc,2017,18200,first owner,delhi,55.0,9.30 bhp,37500,110.0,Hero
+1170,Honda CBR 150R 150cc,2013,28661,third owner,hyderabad,38.0,18.28 bhp,49500,150.0,Honda
+1171,Bajaj V15 150cc,2017,17000,first owner,kanchipuram,57.0,11.80 bhp,45000,150.0,Bajaj
+1172,Bajaj V12 125cc,2017,30074,first owner,delhi,57.0,12bhp,36000,125.0,Bajaj
+1173,Bajaj Avenger Street 220,2015,27792,first owner,mumbai,53.0,19 bhp,48000,220.0,Bajaj
+1174,Bajaj Avenger Street 150,2016,23156,first owner,ghaziabad,50.0,14.30 bhp,40000,150.0,Bajaj
+1175,Bajaj Discover 135cc,2009,68000,first owner,ahmedabad,65.0,9.64 kw,18500,135.0,Bajaj
+1176,Bajaj Pulsar AS150,2016,22840,first owner,delhi,53.0,16.80 bhp,38000,150.0,Bajaj
+1177,Bajaj Pulsar 180cc,2014,34623,second owner,bangalore,45.0,17 bhp,20000,180.0,Bajaj
+1178,Honda CB Trigger 150cc,2014,74073,first owner,gurgaon,60.0,14 bhp,32500,150.0,Honda
+1179,Hero Karizma ZMR 223cc,2012,32050,first owner,delhi,48.0,20 bhp,35500,223.0,Hero
+1180,Hero CBZ Xtreme 150cc,2011,46700,first owner,bangalore,65.0,14.4PS,30000,150.0,Hero
+1181,Yamaha SZ-RR 150cc,2016,30000,second owner,faridabad,55.0,12 bhp,35000,150.0,Yamaha
+1182,Hero Passion Pro 100cc,2010,33000,first owner,chennai,5.0,8.2 Bhp,17000,100.0,Hero
+1183,Yamaha YZF-R15 150cc,2011,57000,third owner,jhajjar,42.0,16 bhp,33000,150.0,Yamaha
+1184,Bajaj V15 150cc,2017,11000,first owner,rupnagar,57.0,11.80 bhp,35000,150.0,Bajaj
+1185,Hero CBZ Xtreme 150cc,2011,95000,first owner,kadi,65.0,14.4PS,16500,150.0,Hero
+1186,Bajaj V15 150cc,2016,15327,first owner,delhi,57.0,11.80 bhp,42000,150.0,Bajaj
+1187,Yamaha YZF-R15 150cc,2009,29570,third owner,bangalore,42.0,16 bhp,39000,150.0,Yamaha
+1188,Bajaj V15 150cc,2016,29857,first owner,tumkur,57.0,11.80 bhp,37000,150.0,Bajaj
+1189,Bajaj Pulsar 220cc,2011,50649,second owner,delhi,38.0,21 bhp,26000,220.0,Bajaj
+1190,Bajaj Boxer CT100,2004,50000,first owner,bolpur,72.0,12.0 PS,18000,100.0,Bajaj
+1191,Bajaj Discover 125ST,2012,20000,first owner,bharatpur,65.0,12.5 ps,18500,125.0,Bajaj
+1192,Hero Passion Xpro 110cc,2015,28329,first owner,hoshiarpur,55.0,6.72 KW (9.1 Ps),32000,110.0,Hero
+1193,Bajaj Pulsar 135LS,2011,58966,first owner,delhi,64.0,13 bhp,15311,135.0,Bajaj
+1194,Hero Karizma ZMR 223cc,2014,24340,first owner,pune,48.0,20 bhp,41000,223.0,Hero
+1195,Bajaj V15 150cc,2016,14500,first owner,thiruvananthapuram,57.0,11.80 bhp,40000,150.0,Bajaj
+1196,Hero Splendor Plus 100cc,2008,26000,first owner,mandi dabwali,81.0,8.20 bhp,23500,100.0,Hero
+1197,Hero Super Splendor 125cc,2006,40320,first owner,jaipur,75.0,9 bhp,15244,125.0,Hero
+1198,Yamaha YZF-R15 150cc,2011,47913,third owner,delhi,42.0,16 bhp,43000,150.0,Yamaha
+1199,Hero Passion PRO  100 cc,2013,9000,first owner,visakhapatnam,50.0,6.15 kW (8.36 Ps),30000,100.0,Hero
+1200,Yamaha FZs 150cc,2014,12000,first owner,ghaziabad,45.0,13 bhp,42000,150.0,Yamaha
+1201,Hero Ignitor 125cc,2014,24800,first owner,howrah,55.0,11 bhp,28700,125.0,Hero
+1202,Hero Glamour 125cc,2012,43000,first owner,kurukshetra,55.0,8.90 bhp,21000,125.0,Hero
+1203,Hero Karizma R 223cc,2008,42452,second owner,thane,40.0,17 bhp,16000,223.0,Hero
+1204,Bajaj Pulsar 135LS,2010,42000,first owner,thane,64.0,13 bhp,16000,135.0,Bajaj
+1205,Bajaj Pulsar AS150,2015,12000,first owner,delhi,53.0,16.80 bhp,40000,150.0,Bajaj
+1206,Hero Splendor NXG 100cc,2011,13010,first owner,faridabad,65.0,7 bhp,17000,100.0,Hero
+1207,TVS Sport 100cc,2010,32031,first owner,cuttack,95.0,7.40 bhp,17000,100.0,TVS
+1208,Hero Xtreme 150cc,2013,17000,first owner,delhi,50.0,14.20 bhp,25300,150.0,Hero
+1209,Bajaj Avenger 220cc,2016,16000,first owner,faridabad,40.0,19 bhp,47000,220.0,Bajaj
+1210,Hero Splendor 100cc,2008,35243,first owner,jaipur,52.5,6.15kW (8.36 Ps),22000,100.0,Hero
+1211,TVS Sport 100cc,2015,16592,first owner,faridabad,95.0,7.40 bhp,22000,100.0,TVS
+1212,Hero Splendor Plus 100cc,2014,11381,first owner,faridabad,81.0,8.20 bhp,22000,100.0,Hero
+1213,Hero Ignitor 125cc,2015,25000,second owner,jhansi,55.0,11 bhp,23000,125.0,Hero
+1214,Hero Passion Pro 100cc,2012,15000,first owner,chennai,5.0,8.2 Bhp,27000,100.0,Hero
+1215,Hero Passion Pro 100cc,2011,18590,first owner,ludhiana,5.0,8.2 Bhp,22000,100.0,Hero
+1216,Hero Splendor 100cc,1996,38000,first owner,chennai,45.0,7.44bhp,23000,100.0,Hero
+1217,Hero Splendor 100cc,2002,55000,first owner,hyderabad,45.0,7.44bhp,20000,100.0,Hero
+1218,Bajaj Discover 110cc,2012,5451,first owner,chennai,72.0,8.51 PS,26000,110.0,Bajaj
+1219,Bajaj Discover 110cc,2015,17203,first owner,chennai,72.0,8.51 PS,30000,110.0,Bajaj
+1220,Hero Passion Xpro 110cc,2015,23000,first owner,delhi,55.0,6.72 KW (9.1 Ps),35000,110.0,Hero
+1221,Bajaj Pulsar 135LS,2010,10495,first owner,ludhiana,64.0,13 bhp,20000,135.0,Bajaj
+1222,Mahindra Centuro 110cc,2013,20000,first owner,delhi,60.0,8.5 Bhp,22500,110.0,Mahindra
+1223,Yamaha FZs 150cc,2013,40826,first owner,delhi,45.0,13 bhp,38000,150.0,Yamaha
+1224,Hero Passion Pro 100cc,2012,37501,first owner,chennai,5.0,8.2 Bhp,20000,100.0,Hero
+1225,Hero Passion Pro 100cc,2014,13654,first owner,chennai,5.0,8.2 Bhp,24000,100.0,Hero
+1226,Hero Glamour 125cc,2010,39778,first owner,chennai,55.0,8.90 bhp,18000,125.0,Hero
+1227,Hero Passion 100cc ,2005,53907,first owner,delhi,55.0,7.5 Bhp,18000,100.0,Hero
+1228,Hero Passion 100cc ,2002,51000,first owner,delhi,55.0,7.5 Bhp,16000,100.0,Hero
+1229,Hero CD Deluxe 100cc,2010,81000,first owner,delhi,65.0,7.70 bhp,25000,100.0,Hero
+1230,Mahindra Centuro 110cc,2015,8000,first owner,jaipur,60.0,8.5 Bhp,38500,110.0,Mahindra
+1231,Hero Passion Plus 100cc,2012,24434,first owner,chennai,55.0,7.5 Bhp,28000,100.0,Hero
+1232,TVS MAX 4R 110cc,2014,13673,first owner,chennai,70.0,9.7 PS,18000,110.0,TVS
+1233,Bajaj V15 150cc,2017,7000,first owner,jabalpur,57.0,11.80 bhp,45000,150.0,Bajaj
+1234,Bajaj Pulsar 180cc,2015,29000,first owner,mumbai,45.0,17 bhp,42000,180.0,Bajaj
+1235,Hero Karizma ZMR 223cc,2013,23695,first owner,wardha,48.0,20 bhp,45000,223.0,Hero
+1236,Bajaj Pulsar 220cc,2014,41736,first owner,rajkot,38.0,21 bhp,38000,220.0,Bajaj
+1237,Hero Passion Pro 100cc,2017,29000,first owner,delhi,5.0,8.2 Bhp,37000,100.0,Hero
+1238,Bajaj Discover 125ST,2012,50000,first owner,kolkata,65.0,12.5 ps,33000,125.0,Bajaj
+1239,Bajaj Pulsar 220cc,2013,12500,first owner,delhi,38.0,21 bhp,35400,220.0,Bajaj
+1240,Bajaj Pulsar 135LS,2014,56780,first owner,mandi dabwali,64.0,13 bhp,22000,135.0,Bajaj
+1241,Bajaj V15 150cc,2016,10682,first owner,bangalore,57.0,11.80 bhp,38000,150.0,Bajaj
+1242,Hero Splendor Pro 100cc,2015,30000,first owner,jaipur,81.0,8.20 bhp,40000,100.0,Hero
+1243,Hero Splendor 100cc,1997,40000,first owner,vadodara,45.0,7.44bhp,23000,100.0,Hero
+1244,Hero Splendor iSmart 100cc,2014,20097,first owner,chennai,55.0,8.20 bhp,22000,100.0,Hero
+1245,TVS Star City 110cc,2011,20238,first owner,chennai,85.0,8.2 bhp,16000,110.0,TVS
+1246,Hero Passion Pro 100cc,2014,9000,first owner,delhi,5.0,8.2 Bhp,37830,100.0,Hero
+1247,Bajaj Discover 135cc,2008,89748,first owner,delhi,65.0,9.64 kw,19784,135.0,Bajaj
+1248,Bajaj V15 150cc,2016,22540,first owner,delhi,57.0,11.80 bhp,38700,150.0,Bajaj
+1249,Bajaj V15 150cc,2016,23000,first owner,hyderabad,57.0,11.80 bhp,45000,150.0,Bajaj
+1250,Bajaj Pulsar 135LS,2010,27000,first owner,gurgaon,64.0,13 bhp,24000,135.0,Bajaj
+1251,Hero Splendor Plus 100cc,2011,20003,first owner,sirsa,81.0,8.20 bhp,20000,100.0,Hero
+1252,Bajaj V15 150cc,2017,2525,first owner,delhi,57.0,11.80 bhp,44000,150.0,Bajaj
+1253,Hero Splendor 100cc,1997,46000,first owner,rajkot,45.0,7.44bhp,23000,100.0,Hero
+1254,Bajaj Avenger 220cc,2013,7300,first owner,delhi,40.0,19 bhp,47530,220.0,Bajaj
+1255,Yamaha FZs 150cc,2013,31085,second owner,gurgaon,45.0,13 bhp,23000,150.0,Yamaha
+1256,Hero Splendor Plus 100cc,2006,38253,first owner,ahmedabad,81.0,8.20 bhp,22050,100.0,Hero
+1257,Hero Super Splendor 125cc,2012,16450,first owner,faridabad,75.0,9 bhp,21000,125.0,Hero
+1258,Hero Splendor iSmart 110cc,2016,16278,first owner,faridabad,55.0,9.30 bhp,31000,110.0,Hero
+1259,TVS Sport 100cc,2018,15820,first owner,faridabad,95.0,7.40 bhp,32000,100.0,TVS
+1260,Yamaha YZF-R15 150cc,2014,21580,first owner,faridabad,42.0,16 bhp,45000,150.0,Yamaha
+1261,Bajaj Discover 125cc,2014,10887,first owner,faridabad,65.0,12.5 ps,19000,125.0,Bajaj
+1262,Yamaha YZF-R15 150cc,2010,105000,first owner,pune,42.0,16 bhp,42100,150.0,Yamaha
+1263,Honda CB Trigger 150cc,2014,28900,first owner,pune,60.0,14 bhp,46506,150.0,Honda
+1264,Bajaj Avenger Street 150,2016,21745,first owner,gurgaon,50.0,14.30 bhp,46000,150.0,Bajaj
+1265,Hero Splendor Pro 100cc,2011,18470,first owner,faridabad,81.0,8.20 bhp,21000,100.0,Hero
+1266,Bajaj Discover 135cc,2011,28241,first owner,jaipur,65.0,9.64 kw,25000,135.0,Bajaj
+1267,Hero Splendor Plus 100cc,2018,18000,first owner,delhi,81.0,8.20 bhp,45000,100.0,Hero
+1268,Hero Splendor Plus 100cc,2013,50000,first owner,jaipur,81.0,8.20 bhp,25000,100.0,Hero
+1269,Bajaj Pulsar 180cc,2014,22047,first owner,ghaziabad,45.0,17 bhp,28000,180.0,Bajaj
+1270,Bajaj Pulsar 180cc,2012,38000,first owner,jaipur,45.0,17 bhp,32000,180.0,Bajaj
+1271,Hero CD Deluxe 100cc,2012,41887,first owner,jaipur,65.0,7.70 bhp,34000,100.0,Hero
+1272,Hero Passion PRO  100 cc,2013,23690,first owner,chennai,50.0,6.15 kW (8.36 Ps),28000,100.0,Hero
+1273,TVS Star City 110cc,2012,3712,first owner,chennai,85.0,8.2 bhp,20000,110.0,TVS
+1274,Bajaj Discover 110cc,2010,30000,first owner,chennai,72.0,8.51 PS,20000,110.0,Bajaj
+1275,Hero Splendor Plus 100cc,2008,58000,first owner,madurai,81.0,8.20 bhp,16000,100.0,Hero
+1276,Mahindra Centuro 110cc,2014,23000,first owner,ludhiana,60.0,8.5 Bhp,29000,110.0,Mahindra
+1277,Bajaj CT 100 100cc,2018,5661,first owner,bangalore,89.0,8.10 bhp,45131,100.0,Bajaj
+1278,Bajaj Pulsar 180cc,2016,18020,first owner,jaipur,65.0,17 bhp,48000,180.0,Bajaj
+1279,Hero Passion Pro i3S Alloy 100cc,2018,8000,first owner,delhi,84.0,8.20 bhp,48000,100.0,Hero
+1280,Hero Passion Plus 100cc,2011,67000,first owner,chennai,55.0,7.5 Bhp,17000,100.0,Hero
+1281,Yamaha FZs 150cc,2013,68550,first owner,chennai,45.0,13 bhp,32000,150.0,Yamaha
+1282,Hero Super Splendor 125cc,2018,8049,first owner,faridabad,75.0,9 bhp,43000,125.0,Hero
+1283,Bajaj Pulsar 220cc,2013,25364,first owner,chennai,38.0,21 bhp,37000,220.0,Bajaj
+1284,Hero Passion PRO  100 cc,2004,45000,first owner,cuttack,50.0,6.15 kW (8.36 Ps),26000,100.0,Hero
+1285,Mahindra Centuro 110cc,2015,24000,first owner,vadodara,60.0,8.5 Bhp,29500,110.0,Mahindra
+1286,Mahindra Centuro 110cc,2015,11572,first owner,jaipur,60.0,8.5 Bhp,39800,110.0,Mahindra
+1287,Hero Hunk 150cc,2009,20212,first owner,ferozepur,53.0,14 bhp,16000,150.0,Hero
+1288,Bajaj Pulsar 220F,2015,54990,first owner,gurgaon,38.0,21 bhp,48000,220.0,Bajaj
+1289,Hero Passion Pro 100cc,2005,27000,first owner,delhi,5.0,8.2 Bhp,16000,100.0,Hero
+1290,Bajaj Pulsar 220cc,2013,2600,first owner,ahmedabad,38.0,21 bhp,42000,220.0,Bajaj
+1291,Bajaj Discover 125cc,2016,14000,first owner,bhopal,65.0,12.5 ps,34000,125.0,Bajaj
+1292,Bajaj Avenger 220cc,2012,32342,first owner,chennai,40.0,19 bhp,35000,220.0,Bajaj
+1293,Bajaj Avenger 220cc,2013,35000,first owner,deesa,40.0,19 bhp,45000,220.0,Bajaj
+1294,Bajaj Pulsar 135LS,2012,17000,first owner,ahmedabad,64.0,13 bhp,22000,135.0,Bajaj
+1295,Bajaj CT 100 100cc,2017,31968,first owner,gurgaon,89.0,8.10 bhp,22500,100.0,Bajaj
+1296,Hero Splendor 100cc,1997,20000,first owner,rajkot,45.0,7.44bhp,21101,100.0,Hero
+1297,Hero Passion Plus 100cc,2011,78394,first owner,chennai,55.0,7.5 Bhp,20000,100.0,Hero
+1298,TVS Star City Plus 110cc,2015,25999,first owner,delhi,85.0,8.2 bhp,28000,110.0,TVS
+1299,Hero Passion Pro 100cc,2011,32000,first owner,chennai,5.0,8.2 Bhp,23000,100.0,Hero
+1300,Bajaj Avenger 200cc,2010,34733,first owner,chennai,53.0,19 bhp,34000,200.0,Bajaj
+1301,Yamaha FZs 150cc,2014,14326,first owner,chennai,45.0,13 bhp,48000,150.0,Yamaha
+1302,Hero Passion Pro 100cc,2017,3000,first owner,tiruvallur,5.0,8.2 Bhp,38708,100.0,Hero
+1303,Bajaj Discover 125cc,2011,27962,first owner,karnal,65.0,12.5 ps,16500,125.0,Bajaj
+1304,Bajaj V15 150cc,2016,12315,first owner,faridabad,57.0,11.80 bhp,32000,150.0,Bajaj
+1305,Hero Splendor Pro 100cc,2011,30000,first owner,faridabad,81.0,8.20 bhp,21000,100.0,Hero
+1306,Bajaj Discover 125ST,2012,35000,first owner,gurgaon,65.0,12.5 ps,20000,125.0,Bajaj
+1307,Bajaj Avenger 220cc,2013,8903,first owner,chennai,40.0,19 bhp,45000,220.0,Bajaj
+1308,Yamaha FZs 150cc,2010,9614,first owner,delhi,45.0,13 bhp,24000,150.0,Yamaha
+1309,Hero CBZ Xtreme 150cc,2011,9500,first owner,delhi,65.0,14.4PS,21000,150.0,Hero
+1310,Hero Passion Pro 100cc,2017,22000,first owner,delhi,5.0,8.2 Bhp,39000,100.0,Hero
+1311,Bajaj V12 125cc,2017,15621,first owner,delhi,57.0,12bhp,35000,125.0,Bajaj
+1312,Bajaj Discover 125cc,2012,16206,first owner,faridabad,65.0,12.5 ps,19000,125.0,Bajaj
+1313,Hero CBZ 150cc,2009,21500,first owner,delhi,65.0,12.8ps,17500,150.0,Hero
+1314,Hero CD Deluxe 100cc,2016,18000,first owner,delhi,65.0,7.70 bhp,33000,100.0,Hero
+1315,TVS Star City Plus 110cc,2018,1363,first owner,chitradurga,85.0,8.2 bhp,45000,110.0,TVS
+1316,Hero CD Deluxe 100cc,2017,28000,first owner,delhi,65.0,7.70 bhp,33680,100.0,Hero
+1317,TVS Sport 100cc,2018,8048,first owner,delhi,95.0,7.40 bhp,34000,100.0,TVS
+1318,Hero Splendor Plus 100cc,2011,47000,first owner,delhi,81.0,8.20 bhp,23000,100.0,Hero
+1319,Suzuki Gixxer 150cc,2016,18000,second owner,delhi,63.0,14 bhp,45000,150.0,Suzuki
+1320,Bajaj Pulsar 220cc,2014,25000,first owner,rohtak,38.0,21 bhp,40000,220.0,Bajaj
+1321,Hero Passion Pro 100cc,2014,18168,first owner,chennai,5.0,8.2 Bhp,30000,100.0,Hero
+1322,Bajaj Avenger 220cc,2010,20245,second owner,delhi,40.0,19 bhp,39500,220.0,Bajaj
+1323,Bajaj V15 150cc,2016,1000,first owner,jaipur,57.0,11.80 bhp,45000,150.0,Bajaj
+1324,Hero CBZ Xtreme 150 cc,2012,18000,first owner,delhi,50.0,11.64 KW (15.6 BHP),20000,150.0,Hero
+1325,Hero Passion Plus 100cc,2012,28000,first owner,chennai,55.0,7.5 Bhp,26000,100.0,Hero
+1326,Hero Passion 100cc ,2005,26512,second owner,chennai,55.0,7.5 Bhp,16000,100.0,Hero
+1327,Hero Passion Pro 100cc,2012,12000,first owner,ludhiana,5.0,8.2 Bhp,28000,100.0,Hero
+1328,Suzuki Hayate 110cc,2016,16257,first owner,vadodara,69.0,8.3 bhp,31000,110.0,Suzuki
+1329,Hero Ignitor 125cc,2015,18779,first owner,vadodara,55.0,11 bhp,32000,125.0,Hero
+1330,Hero CD Deluxe 100cc,2011,30000,first owner,ahmedabad,65.0,7.70 bhp,24500,100.0,Hero
+1331,Hero Karizma 223cc,2005,57000,first owner,surat,40.0,17 bhp,18000,223.0,Hero
+1332,Hero Splendor Pro 100cc,2011,53000,first owner,jaipur,81.0,8.20 bhp,29300,100.0,Hero
+1333,Hero Ignitor 125cc,2016,32145,first owner,gurgaon,55.0,11 bhp,26000,125.0,Hero
+1334,Hero Passion Pro 100cc,2010,253621,first owner,chennai,5.0,8.2 Bhp,18000,100.0,Hero
+1335,Hero CBZ Xtreme 150cc,2013,113000,first owner,pune,65.0,14.4PS,33000,150.0,Hero
+1336,Honda Dream Yuga 110cc,2015,20000,first owner,ludhiana,84.0,8 bhp,26500,110.0,Honda
+1337,Hero Splendor Plus 100cc,2009,42000,first owner,ludhiana,81.0,8.20 bhp,18000,100.0,Hero
+1338,Bajaj Discover 125cc,2009,26154,first owner,chennai,65.0,12.5 ps,16500,125.0,Bajaj
+1339,Bajaj Discover 110cc,2015,15625,first owner,chennai,72.0,8.51 PS,30000,110.0,Bajaj
+1340,Hero Passion Plus 100cc,2009,2009,fourth owner or more,anantnag,55.0,7.5 Bhp,23000,100.0,Hero
+1341,TVS Star City 110cc,2012,92466,first owner,chennai,85.0,8.2 bhp,18000,110.0,TVS
+1342,Hero Passion Pro 100cc,2014,45000,first owner,chennai,5.0,8.2 Bhp,32000,100.0,Hero
+1343,Hero Passion Plus 100cc,2005,20102,first owner,delhi,55.0,7.5 Bhp,17000,100.0,Hero
+1344,Hero CD Deluxe 100cc,2004,18446,first owner,pune,65.0,7.70 bhp,20000,100.0,Hero
+1345,TVS Star City 110cc,2009,19081,first owner,chennai,85.0,8.2 bhp,16000,110.0,TVS
+1346,Bajaj Discover 125ST,2013,40000,first owner,chennai,65.0,12.5 ps,22000,125.0,Bajaj
+1347,Bajaj V15 150cc,2016,5000,first owner,ludhiana,57.0,11.80 bhp,39000,150.0,Bajaj
+1348,Hero Splendor 100cc,2004,4999,first owner,chennai,52.5,6.15kW (8.36 Ps),17000,100.0,Hero
+1349,Hero Splendor 100cc,2001,32000,first owner,bharuch,45.0,7.44bhp,18500,100.0,Hero
+1350,Hero Karizma ZMR 223cc,2011,66780,first owner,alipore,48.0,20 bhp,39899,223.0,Hero
+1351,Bajaj V15 150cc,2016,7524,first owner,bangalore,57.0,11.80 bhp,49000,150.0,Bajaj
