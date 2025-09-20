@@ -85,6 +85,7 @@ if st.sidebar.button("Predict Price"):
     
     
     relevant_bikes = relevant_bikes.sort_values('price').reset_index(drop=True)
+    relevant_bikes.index = relevant_bikes.index + 1
     st.write(f"### 🔍 Found {len(relevant_bikes)} similar bikes in dataset:")
     st.dataframe(relevant_bikes[['brand', 'model_name', 'cc', 'model_year', 'owner', 'price']])
     #st.info(f"Model Training RMSE: {rmse:,.2f}")
