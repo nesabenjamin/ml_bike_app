@@ -4,6 +4,8 @@ import numpy as np
 import statsmodels.api as sm
 import pickle
 from sklearn.metrics import mean_squared_error
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 # ----------------------------
 # Load your cleaned dataset
@@ -86,3 +88,15 @@ if st.sidebar.button("Predict Price"):
     st.write(f"### 🔍 Found {len(relevant_bikes)} similar bikes in dataset:")
     st.dataframe(relevant_bikes[['brand', 'model_name', 'cc', 'model_year', 'owner', 'price']])
     #st.info(f"Model Training RMSE: {rmse:,.2f}")
+
+with st.expander("📦 Price Distribution by Brand", expanded=False):
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+    sns.boxplot(x='brand', y='price', data=df_cleaned, ax=ax)
+
+    ax.set_title('Price Distribution by Brand')
+    ax.set_xlabel('Brand')
+    ax.set_ylabel('Price (INR)')
+    ax.grid(True)
+
+    st.pyplot(fig)
